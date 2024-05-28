@@ -1,0 +1,14 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\bin\Debug\net8.0\MainUI.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\bin\Debug\net8.0\MainUI.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\bin\Debug\net8.0\MainUI.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\bin\Debug\net8.0\MainUI.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\bin\Debug\net8.0\MainUI.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\refint\MainUI.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\MainUI.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\MainUI\obj\Debug\net8.0\ref\MainUI.dll

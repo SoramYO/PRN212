@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\bin\Debug\net8.0\NullableV2.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\refint\NullableV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\NullableV2.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\DataType\NullableV2\obj\Debug\net8.0\ref\NullableV2.dll

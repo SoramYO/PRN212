@@ -1,0 +1,14 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\bin\Debug\net8.0\FunctionBasic.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\bin\Debug\net8.0\FunctionBasic.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\bin\Debug\net8.0\FunctionBasic.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\bin\Debug\net8.0\FunctionBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\bin\Debug\net8.0\FunctionBasic.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\refint\FunctionBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\FunctionBasic.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\Integers\FunctionBasic\obj\Debug\net8.0\ref\FunctionBasic.dll

@@ -1,0 +1,15 @@
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.exe
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.deps.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.runtimeconfig.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\bin\Debug\net8.0\FunctionRef.pdb
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.AssemblyInfoInputs.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.AssemblyInfo.cs
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.csproj.CoreCompileInputs.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.sourcelink.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\refint\FunctionRef.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.pdb
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\FunctionRef.genruntimeconfig.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionRef\obj\Debug\net8.0\ref\FunctionRef.dll

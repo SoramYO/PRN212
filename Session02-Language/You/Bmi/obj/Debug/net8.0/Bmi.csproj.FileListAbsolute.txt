@@ -1,0 +1,13 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\bin\Debug\net8.0\Bmi.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\bin\Debug\net8.0\Bmi.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\bin\Debug\net8.0\Bmi.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\refint\Bmi.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\ref\Bmi.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\bin\Debug\net8.0\Bmi.xml
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session02-Language\You\Bmi\obj\Debug\net8.0\Bmi.xml

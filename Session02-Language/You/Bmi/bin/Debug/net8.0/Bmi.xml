@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Bmi</name>
+    </assembly>
+    <members>
+        <member name="T:Bmi.BmiCaculator">
+            <summary>
+            Hàm này trả về chỉ số Bmi dựa trên cân nặng và chiều cao Bmi trong khoảng từ 18.5 đén 24.9
+            <param name="weight">Cân nặng do bằng kg</param>
+            <param name="height">Chiều cao đo bằng m</param>
+            </summary>
+            <summary>
+            Class này cung cấp các hàm để tính ra chỉ số BMI của 1 cá nhân bất kì dựa trên chiều cao và cân nặng đồng thời cảnh báo mập ốm
+            </summary>
+        </member>
+        <member name="M:Bmi.BmiCaculator.GetBmi(System.Double,System.Double)">
+            <summary>
+            
+            </summary>
+            <param name="weight"></param>
+            <param name="height"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

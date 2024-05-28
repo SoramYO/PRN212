@@ -1,0 +1,15 @@
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\bin\Debug\net8.0\FunctionOutV2.exe
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\bin\Debug\net8.0\FunctionOutV2.deps.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\bin\Debug\net8.0\FunctionOutV2.runtimeconfig.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\bin\Debug\net8.0\FunctionOutV2.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\bin\Debug\net8.0\FunctionOutV2.pdb
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.AssemblyInfoInputs.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.AssemblyInfo.cs
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.csproj.CoreCompileInputs.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.sourcelink.json
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\refint\FunctionOutV2.dll
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.pdb
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\FunctionOutV2.genruntimeconfig.cache
+C:\Users\Soram\source\repos\PRN212\Session02-Language\Integers\FunctionOutV2\obj\Debug\net8.0\ref\FunctionOutV2.dll
