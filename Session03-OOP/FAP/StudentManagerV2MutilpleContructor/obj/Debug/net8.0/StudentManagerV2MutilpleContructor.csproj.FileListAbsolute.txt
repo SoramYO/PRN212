@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\bin\Debug\net8.0\StudentManagerV2MutilpleContructor.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\bin\Debug\net8.0\StudentManagerV2MutilpleContructor.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\bin\Debug\net8.0\StudentManagerV2MutilpleContructor.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\bin\Debug\net8.0\StudentManagerV2MutilpleContructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\bin\Debug\net8.0\StudentManagerV2MutilpleContructor.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\refint\StudentManagerV2MutilpleContructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\StudentManagerV2MutilpleContructor.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV2MutilpleContructor\obj\Debug\net8.0\ref\StudentManagerV2MutilpleContructor.dll

@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\bin\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\refint\StudentManagerV3EmptyConstructor.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\StudentManagerV3EmptyConstructor.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV3EmptyConstructor\obj\Debug\net8.0\ref\StudentManagerV3EmptyConstructor.dll

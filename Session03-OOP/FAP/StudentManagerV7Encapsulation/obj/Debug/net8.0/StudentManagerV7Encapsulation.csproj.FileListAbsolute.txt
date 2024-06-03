@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\bin\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\refint\StudentManagerV7Encapsulation.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\StudentManagerV7Encapsulation.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV7Encapsulation\obj\Debug\net8.0\ref\StudentManagerV7Encapsulation.dll

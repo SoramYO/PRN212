@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Program.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:02:30.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAADwvxUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T15:36:53.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
