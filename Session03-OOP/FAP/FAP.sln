@@ -9,13 +9,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV2MutilpleCon
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV3EmptyConstructor", "StudentManagerV3EmptyConstructor\StudentManagerV3EmptyConstructor.csproj", "{750DD97F-392E-4111-8CA8-E855BCEF369D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV4EmptyContructor", "StudentManagerV4EmptyContructor\StudentManagerV4EmptyContructor.csproj", "{7F2B9634-C7C3-44CE-BE38-D5878D21E03F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV4EmptyContructor", "StudentManagerV4EmptyContructor\StudentManagerV4EmptyContructor.csproj", "{7F2B9634-C7C3-44CE-BE38-D5878D21E03F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV5MutipleContructor", "StudentManagerV5MutipleContructor\StudentManagerV5MutipleContructor.csproj", "{D340DD0C-0192-493D-8A8B-E06C4746703B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV5MutipleContructor", "StudentManagerV5MutipleContructor\StudentManagerV5MutipleContructor.csproj", "{D340DD0C-0192-493D-8A8B-E06C4746703B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV6Property", "StudentManagerV6Property\StudentManagerV6Property.csproj", "{1B671866-A3C6-4935-BBCD-A33D857DBF05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV6Property", "StudentManagerV6Property\StudentManagerV6Property.csproj", "{1B671866-A3C6-4935-BBCD-A33D857DBF05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV7Encapsulation", "StudentManagerV7Encapsulation\StudentManagerV7Encapsulation.csproj", "{D89881BE-7A05-47F1-8477-67E9D18D2BF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV7Encapsulation", "StudentManagerV7Encapsulation\StudentManagerV7Encapsulation.csproj", "{D89881BE-7A05-47F1-8477-67E9D18D2BF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV8PropertyHybrid", "StudentManagerV8PropertyHybrid\StudentManagerV8PropertyHybrid.csproj", "{FA89D467-5D53-4841-B223-C9F78D89EBAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV9Property", "StudentManagerV9Property\StudentManagerV9Property.csproj", "{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV10PropertyHotkey", "StudentManagerV10PropertyHotkey\StudentManagerV10PropertyHotkey.csproj", "{80561A62-9E78-4769-9D68-8D350F4FE4C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV11PropertyAutoBackingField", "StudentManagerV11PropertyAutoBackingField\StudentManagerV11PropertyAutoBackingField.csproj", "{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerVFinalFantansy", "StudentManagerVFinalFantansy\StudentManagerVFinalFantansy.csproj", "{3F113748-AC08-40C7-817A-6DB68291E6A9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +61,26 @@ Global
 		{D89881BE-7A05-47F1-8477-67E9D18D2BF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D89881BE-7A05-47F1-8477-67E9D18D2BF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D89881BE-7A05-47F1-8477-67E9D18D2BF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA89D467-5D53-4841-B223-C9F78D89EBAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA89D467-5D53-4841-B223-C9F78D89EBAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA89D467-5D53-4841-B223-C9F78D89EBAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA89D467-5D53-4841-B223-C9F78D89EBAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80561A62-9E78-4769-9D68-8D350F4FE4C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80561A62-9E78-4769-9D68-8D350F4FE4C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80561A62-9E78-4769-9D68-8D350F4FE4C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80561A62-9E78-4769-9D68-8D350F4FE4C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F113748-AC08-40C7-817A-6DB68291E6A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F113748-AC08-40C7-817A-6DB68291E6A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F113748-AC08-40C7-817A-6DB68291E6A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F113748-AC08-40C7-817A-6DB68291E6A9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

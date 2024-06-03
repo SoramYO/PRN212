@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\bin\Debug\net8.0\StudentManagerV8PropertyHybrid.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\bin\Debug\net8.0\StudentManagerV8PropertyHybrid.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\bin\Debug\net8.0\StudentManagerV8PropertyHybrid.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\bin\Debug\net8.0\StudentManagerV8PropertyHybrid.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\bin\Debug\net8.0\StudentManagerV8PropertyHybrid.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\refint\StudentManagerV8PropertyHybrid.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\StudentManagerV8PropertyHybrid.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session03-OOP\FAP\StudentManagerV8PropertyHybrid\obj\Debug\net8.0\ref\StudentManagerV8PropertyHybrid.dll

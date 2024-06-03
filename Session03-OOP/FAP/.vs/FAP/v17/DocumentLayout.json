@@ -3,6 +3,58 @@
   "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FA89D467-5D53-4841-B223-C9F78D89EBAE}|StudentManagerV8PropertyHybrid\\StudentManagerV8PropertyHybrid.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv8propertyhybrid\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA89D467-5D53-4841-B223-C9F78D89EBAE}|StudentManagerV8PropertyHybrid\\StudentManagerV8PropertyHybrid.csproj|solutionrelative:studentmanagerv8propertyhybrid\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv11propertyautobackingfield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|solutionrelative:studentmanagerv11propertyautobackingfield\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\studentmanagervfinalfantansy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|solutionrelative:studentmanagervfinalfantansy\\studentmanagervfinalfantansy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|solutionrelative:studentmanagervfinalfantansy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv11propertyautobackingfield\\studentmanagerv11propertyautobackingfield.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|solutionrelative:studentmanagerv11propertyautobackingfield\\studentmanagerv11propertyautobackingfield.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv11propertyautobackingfield\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA9F98D4-D186-49EA-A3F3-31CE2F73DEE7}|StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj|solutionrelative:studentmanagerv11propertyautobackingfield\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80561A62-9E78-4769-9D68-8D350F4FE4C9}|StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv10propertyhotkey\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80561A62-9E78-4769-9D68-8D350F4FE4C9}|StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj|solutionrelative:studentmanagerv10propertyhotkey\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80561A62-9E78-4769-9D68-8D350F4FE4C9}|StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv10propertyhotkey\\studentmanagerv10propertyhotkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{80561A62-9E78-4769-9D68-8D350F4FE4C9}|StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj|solutionrelative:studentmanagerv10propertyhotkey\\studentmanagerv10propertyhotkey.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}|StudentManagerV9Property\\StudentManagerV9Property.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv9property\\studentmanagerv9property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F85E2BBD-709A-4B20-8A10-61E7E910F7C7}|StudentManagerV9Property\\StudentManagerV9Property.csproj|solutionrelative:studentmanagerv9property\\studentmanagerv9property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FA89D467-5D53-4841-B223-C9F78D89EBAE}|StudentManagerV8PropertyHybrid\\StudentManagerV8PropertyHybrid.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv8propertyhybrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA89D467-5D53-4841-B223-C9F78D89EBAE}|StudentManagerV8PropertyHybrid\\StudentManagerV8PropertyHybrid.csproj|solutionrelative:studentmanagerv8propertyhybrid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv6property\\studentmanagerv6property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B671866-A3C6-4935-BBCD-A33D857DBF05}|StudentManagerV6Property\\StudentManagerV6Property.csproj|solutionrelative:studentmanagerv6property\\studentmanagerv6property.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D89881BE-7A05-47F1-8477-67E9D18D2BF2}|StudentManagerV7Encapsulation\\StudentManagerV7Encapsulation.csproj|solutionrelative:studentmanagerv7encapsulation\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,11 +70,177 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "RelativeToolTip": "StudentManagerV11PropertyAutoBackingField\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:49:45.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentManagerVFinalFantansy",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "RelativeDocumentMoniker": "StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "RelativeToolTip": "StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:49:45.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:49:45.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentManagerV11PropertyAutoBackingField",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj",
+              "RelativeToolTip": "StudentManagerV11PropertyAutoBackingField\\StudentManagerV11PropertyAutoBackingField.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:49:45.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV11PropertyAutoBackingField\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:49:45.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV10PropertyHotkey\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV10PropertyHotkey\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV10PropertyHotkey\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV10PropertyHotkey\\Entities\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T17:49:42.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentManagerV10PropertyHotkey",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj",
+              "RelativeToolTip": "StudentManagerV10PropertyHotkey\\StudentManagerV10PropertyHotkey.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:49:42.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentManagerV9Property",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV9Property\\StudentManagerV9Property.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV9Property\\StudentManagerV9Property.csproj",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV9Property\\StudentManagerV9Property.csproj",
+              "RelativeToolTip": "StudentManagerV9Property\\StudentManagerV9Property.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T17:49:40.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV8PropertyHybrid\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyHybrid\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV8PropertyHybrid\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV8PropertyHybrid\\Entities\\Student.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA8wBQAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:29:56.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV8PropertyHybrid\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV8PropertyHybrid\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV8PropertyHybrid\\Program.cs",
+              "RelativeToolTip": "StudentManagerV8PropertyHybrid\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAYwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:29:38.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Entities\\Student.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAADwv0oAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:10:48.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\Program.cs",
+              "RelativeToolTip": "StudentManagerV6Property\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T16:10:46.491Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentManagerV6Property.csproj",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj",
+              "RelativeDocumentMoniker": "StudentManagerV6Property\\StudentManagerV6Property.csproj",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV6Property\\StudentManagerV6Property.csproj",
+              "RelativeToolTip": "StudentManagerV6Property\\StudentManagerV6Property.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-03T16:10:43.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Program.cs",
@@ -30,12 +248,11 @@
               "RelativeToolTip": "StudentManagerV7Encapsulation\\Program.cs",
               "ViewState": "AQIAAA4AAAAAAAAAAAA1wAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T16:02:30.083Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T16:02:30.083Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV7Encapsulation\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
@@ -43,8 +260,7 @@
               "RelativeToolTip": "StudentManagerV7Encapsulation\\Entities\\Student.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAADwvxUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-03T15:36:53.971Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-03T15:36:53.971Z"
             }
           ]
         }
