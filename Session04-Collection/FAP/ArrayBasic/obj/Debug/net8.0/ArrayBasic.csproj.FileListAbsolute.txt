@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\bin\Debug\net8.0\ArrayBasic.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\refint\ArrayBasic.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ArrayBasic.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayBasic\obj\Debug\net8.0\ref\ArrayBasic.dll
