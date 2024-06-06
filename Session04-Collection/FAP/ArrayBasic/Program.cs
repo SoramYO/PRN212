@@ -4,9 +4,65 @@
     {
         static void Main(string[] args)
         {
-            PlayWithIntegerListV4();
+            PlayWithIntegerListV6();
+        }
+
+        static void PlayWithIntegerListV6()
+        {
+            int a = 10;
+            int b = a; //primitive, value-type; b có value của a
+            //mảng chơi trò gán bằng thì sao
+            int[] arr1 = { 5, 10, 15, 20 }; //new ngầm int[4] 
+
+            int[] arr2 = { 2, 4, 6, 8 };
+
+            Console.WriteLine("Arr2 first");
+            foreach (int x in arr2)
+                Console.Write($"{x} ");
+            Console.WriteLine();
+
+            arr2 = arr1; //2 chàng 1 nàng
+
+            arr1[0] = 999;
+
+            Console.WriteLine("Arr2 after a sign");
+            foreach (int x in arr2)
+                Console.Write($"{x} ");
+            Console.WriteLine();
+            arr2[1] = 662024;
+            Console.WriteLine("Arr1 after a modify by arr2");
+            foreach (int x in arr1)
+                Console.Write($"{x} ");
+            Console.WriteLine();
         }
         //toán tử với mọi trong tập hợp
+        static void PlayWithIntegerListV5()
+        {
+            int[] arr = new int[10]; //10 elements 10 phần tử 
+                                     //int lẻ nay đc gom chung trong tên arr. arr là biến má mì quản lí 10 biến con kiểu int arr[0] arr[1], ....
+                                     //có 11 biến: 1 má mì + 10 biến con
+            arr[0] = 5;
+            arr[1] = 10;
+            arr[2] = 15;
+            arr[3] = 20;
+            //gán trước 4 giá trị cho 4 biến đầu 
+            //vùng 6 biến int còn lại sẽ mang default - object là vậy k đủ info là mang default
+            //số -> default = 0
+            //bool -> default = false
+            //object -> default = null trỏ đáy ram
+            Console.WriteLine("The list of number");
+            //for (int i = 0; i < arr.Length; i++)
+            for (int i = 0; i < 4; i++)
+                Console.Write(arr[i] + " ");
+            Console.WriteLine(@"
+The list of number");
+            foreach (int x in arr) //toán tử với mọi x thuộc tập hợp arr - là 1 đống biến int [i]
+                //x có quyền bằng từng con số trong mảng = phần tử thứ [i]
+                Console.Write($"{x} ");
+            Console.WriteLine();
+
+
+        }
         static void PlayWithIntegerListV4()
         {
             int[] arr = { 5, 10, 15, 20, 25, 30, 35, 40, 45, 50 };
@@ -170,3 +226,14 @@
         }
     }
 }
+//CHỐT HẠ: MĂNG LÀ KHAI BÁO NHIỀU BIẾN CÙNG LÚC CÙNG KIỂU CÙNG TÊN, Ở SÁT NHAU TRONG RAM
+//VẬY THÌ GÁN GIÁ TRI CHO NHIỀU BIẾN THÌ SẼ LÀ LÔI TỪNG BIẾN THỨ [I] RA = VALUE; 
+//THƯỜNG MẢNG SẼ LUÔN CHƯA ĐẦY, MỌI BIẾN SẼ CHƯA ĐC GÁN VALUE
+//EX. LƯỢNG MƯA TỪNG NGÀY TRONG NĂM -> MÃNG 365 BIẾN DOUBLE
+//TẠI LÚC NÀY - 6/2024 MẢNG MỚI ĐẦY 1/2
+//FOR HET NĂM LÀ KO CĂN THIẾT, DO 1/2 NĂM CÔN LẠI LÀ 0 - DEFAULT, ĐÃ SANG NGÀY MỚI ĐÂU MÀ ĐO MƯA! ! !
+//* CHƠI VỚI MÃNG TA HAY - LUÔN FOR ĐẾN COUNT - COUNT LÀ 1 BIỀN ĐỂM LƯU SỐ LƯỢNG BIẾN ĐANG CÓ VALUE! ! !!
+//COUNT = 4, MÀNG CÓ 10 BIẾN, BIẾT NGAY CÒN 6 BIẾN SẼ CẦN GÁN VALUE! !!
+//FOR ĐẾN 4 TRONG BÀI NÀY, FOR ĐẾN COUNT ĐẦM BẢO IN VALUE CÓ NGHĨA, CÒN LẠI DEFAULT KO CARE!|
+//CHỐT HẠ: GÁN MẢNG CHO MẢNG, MÁ MÌ = MÁ MÌ KHÁC, 2 CHÀNG 1 NÀNG
+// 2 MÁ MÌ CÙNG QUẢN 1 ĐÁM! !!

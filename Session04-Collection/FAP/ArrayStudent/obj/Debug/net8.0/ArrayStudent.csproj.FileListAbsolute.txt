@@ -1,0 +1,15 @@
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.exe
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.deps.json
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.runtimeconfig.json
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.dll
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\bin\Debug\net8.0\ArrayStudent.pdb
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfoInputs.cache
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.AssemblyInfo.cs
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.csproj.CoreCompileInputs.cache
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.sourcelink.json
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.dll
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\refint\ArrayStudent.dll
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.pdb
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ArrayStudent.genruntimeconfig.cache
+C:\Users\Soram\Downloads\Documents\PRN212\Session04-Collection\FAP\ArrayStudent\obj\Debug\net8.0\ref\ArrayStudent.dll
