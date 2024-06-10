@@ -88,12 +88,108 @@ namespace StudentManager.Services
 
         //OVERRIDE MỚI ĐÃ HƠN, CHA GỌI HÀM, CÁC CON HƯỚNG ỨNG! !!
 
+        public void AddStudentMenu()
+        {
+            Console.WriteLine("======Add Student======");
+            Console.WriteLine("Enter Student ID");
+            String id = Console.ReadLine();
+            Console.WriteLine("Enter Student Name");
+            String name = Console.ReadLine();
+            Console.WriteLine("Enter Student Yob");
+            int yob = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Student Gpa");
+            double gpa = double.Parse(Console.ReadLine());
+            Student s = new Student() { Id = id, Name = name, Yob = yob, Gpa = gpa };
+            AddAStudent(s);
+        }
 
+        public void SortStudentByGpa()
+        {
+            Array.Sort(_arr, (s1, s2) =>
+            {
+                if (s1 == null || s2 == null)
+                {
+                    return s1 == null ? (s2 == null ? 0 : -1) : 1;
+                }
+                return s1.Gpa.CompareTo(s2.Gpa);
+            });
+            foreach (Student s in _arr)
+            {
+                if (s != null)
+                {
+                    s.ShowProfile();
+                }
+            }
+        }
+        public void SortStudentByName()
+        {
 
+            Array.Sort(_arr, (s1, s2) =>
+            {
+                if (s1 == null || s2 == null)
+                {
+                    return s1 == null ? (s2 == null ? 0 : -1) : 1;
+                }
+                return s1.Name.CompareTo(s2.Name);
+            });
+            foreach (Student s in _arr)
+            {
+                if (s != null)
+                {
+                    s.ShowProfile();
+                }
+            }
+        }
 
+        public void SearchStudent()
+        {
+            Console.WriteLine("Enter student id to search");
+            string id = Console.ReadLine();
+            foreach (Student s in _arr)
+            {
+                if (s != null && s.Id.Contains(id))
+                {
+                    s.ShowProfile();
+                }
+            }
+        }
+        public void UpdateStudent()
+        {
+            Console.WriteLine("Enter student id to update");
+            string id = Console.ReadLine();
+            foreach (Student s in _arr)
+            {
+                if (s != null && s.Id.Contains(id))
+                {
+                    Console.WriteLine("Enter new name");
+                    s.Name = Console.ReadLine();
+                    Console.WriteLine("Enter new yob");
+                    s.Yob = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter new gpa");
+                    s.Gpa = double.Parse(Console.ReadLine());
+                    s.ShowProfile();
+                }
+            }
+        }
 
+        public void DeleteStudent()
+        {
+            Console.WriteLine("Enter student id to delete");
+            string id = Console.ReadLine();
+            foreach (Student s in _arr)
+            {
+                if (s != null && s.Id.Contains(id))
+                {
+                    s.ShowProfile();
+                    Console.WriteLine("Do you want to delete this student? (Y/N)");
+                    string choice = Console.ReadLine();
+                    if (choice.ToUpper().Equals("Y"))
+                    {
+                        Array.Clear(_arr, Array.IndexOf(_arr, s), 1);
 
-
-
+                    }
+                }
+            }
+        }
     }
 }
