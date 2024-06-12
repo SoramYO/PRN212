@@ -5,9 +5,13 @@ VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayBasic", "ArrayBasic\ArrayBasic.csproj", "{F0E7BE2B-C0A0-415A-9941-78170A187EB1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{43A7AA74-69AE-49B0-9541-9592ED79FBB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArrayStudent", "ArrayStudent\ArrayStudent.csproj", "{43A7AA74-69AE-49B0-9541-9592ED79FBB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManager", "StudentManager\StudentManager.csproj", "{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManager", "StudentManager\StudentManager.csproj", "{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StudentManagerV2", "StudentManagerV2\StudentManagerV2.csproj", "{29581BE4-6C24-4B4F-9A59-C35663C24B69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StudentManagerV3", "StudentManagerV3\StudentManagerV3.csproj", "{A1F07BB3-D772-49E8-A03A-0326A252A698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +31,14 @@ Global
 		{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29581BE4-6C24-4B4F-9A59-C35663C24B69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29581BE4-6C24-4B4F-9A59-C35663C24B69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29581BE4-6C24-4B4F-9A59-C35663C24B69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29581BE4-6C24-4B4F-9A59-C35663C24B69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F07BB3-D772-49E8-A03A-0326A252A698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F07BB3-D772-49E8-A03A-0326A252A698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F07BB3-D772-49E8-A03A-0326A252A698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F07BB3-D772-49E8-A03A-0326A252A698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

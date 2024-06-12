@@ -1,0 +1,15 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\bin\Debug\net8.0\StudentManagerV2.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\refint\StudentManagerV2.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\StudentManagerV2.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session04-Collection\FAP\StudentManagerV2\obj\Debug\net8.0\ref\StudentManagerV2.dll

@@ -1,26 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\",
+  "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|d:\\documents\\prn212\\prn212\\session04-collection\\fap\\studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\services\\cabinetfantasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\services\\cabinetfantasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\studentmanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|d:\\documents\\prn212\\prn212\\session04-collection\\fap\\studentmanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{43A7AA74-69AE-49B0-9541-9592ED79FBB6}|ArrayStudent\\ArrayStudent.csproj|D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\arraystudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{43A7AA74-69AE-49B0-9541-9592ED79FBB6}|ArrayStudent\\ArrayStudent.csproj|solutionrelative:arraystudent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9119DF93-A913-4757-8F4F-CCBADC0EEFC3}|StudentManager\\StudentManager.csproj|solutionrelative:studentmanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv2\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv2\\services\\studentcabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\services\\studentcabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session04-collection\\fap\\studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29581BE4-6C24-4B4F-9A59-C35663C24B69}|StudentManagerV2\\StudentManagerV2.csproj|solutionrelative:studentmanagerv2\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,77 +38,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Lecturer.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Entities\\Lecturer.cs",
-              "RelativeDocumentMoniker": "StudentManager\\Entities\\Lecturer.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Entities\\Lecturer.cs",
-              "RelativeToolTip": "StudentManager\\Entities\\Lecturer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "CabinetFantasy.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "RelativeToolTip": "StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T01:41:20.793Z",
+              "WhenOpened": "2024-06-12T07:21:17.44Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentManager\\Entities\\Student.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentManager\\Entities\\Student.cs",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV3\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
+              "RelativeToolTip": "StudentManagerV3\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:08:10.249Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\ArrayStudent\\Program.cs",
-              "RelativeDocumentMoniker": "ArrayStudent\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\ArrayStudent\\Program.cs",
-              "RelativeToolTip": "ArrayStudent\\Program.cs",
-              "ViewState": "AQIAAKcAAAAAAAAAAAAswHgAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:35:05.543Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManager\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Program.cs",
-              "RelativeToolTip": "StudentManager\\Program.cs",
-              "ViewState": "AQIAADwAAAAAAAAAAAAowEEAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T03:33:24.754Z",
+              "WhenOpened": "2024-06-12T07:20:19.455Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Cabinet.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Services\\Cabinet.cs",
-              "RelativeDocumentMoniker": "StudentManager\\Services\\Cabinet.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\PRN212\\Session04-Collection\\FAP\\StudentManager\\Services\\Cabinet.cs",
-              "RelativeToolTip": "StudentManager\\Services\\Cabinet.cs",
-              "ViewState": "AQIAAB0BAAAAAAAAAAAAADYBAAAJAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Program.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Program.cs",
+              "RelativeToolTip": "StudentManagerV2\\Program.cs",
+              "ViewState": "AQIAAFUAAAAAAAAAAADwv2UAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T04:02:19.444Z",
+              "WhenOpened": "2024-06-12T06:24:59.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagerV2\\Entities\\Student.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBEAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:07:41.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentCabinet.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Services\\StudentCabinet.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Services\\StudentCabinet.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Services\\StudentCabinet.cs",
+              "RelativeToolTip": "StudentManagerV2\\Services\\StudentCabinet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwCQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:07:32.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LecturerCabinet.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Services\\LecturerCabinet.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Services\\LecturerCabinet.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Services\\LecturerCabinet.cs",
+              "RelativeToolTip": "StudentManagerV2\\Services\\LecturerCabinet.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:06:44.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Entities\\Lecturer.cs",
+              "RelativeDocumentMoniker": "StudentManagerV2\\Entities\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV2\\Entities\\Lecturer.cs",
+              "RelativeToolTip": "StudentManagerV2\\Entities\\Lecturer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T06:05:59.378Z",
               "EditorCaption": ""
             }
           ]
