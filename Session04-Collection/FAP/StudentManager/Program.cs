@@ -1,5 +1,4 @@
-﻿using StudentManager.Entities;
-using StudentManager.Services;
+﻿using StudentManager.Services;
 
 namespace StudentManager
 {
@@ -23,11 +22,61 @@ namespace StudentManager
             //tuSE.PrintStudentList();
             //tuBiz.PrintStudentList();
 
-
             int choice;
+
             do
             {
-                Menu();
+                Console.WriteLine("Manage");
+                Console.WriteLine("1. Student");
+                Console.WriteLine("2. Lecturer");
+                Console.WriteLine("3. Quit");
+                string input = Console.ReadLine();
+                if (int.TryParse(input, out choice))
+                {
+
+                    switch (choice)
+                    {
+                        case 1:
+                            Menu();
+                            break;
+                        case 2:
+                            Menu2();
+                            break;
+                        case 3:
+                            Console.WriteLine("Goodbye");
+                            return;
+                        default:
+                            Console.WriteLine("Invalid choice");
+                            break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter an integer.");
+                }
+
+            } while (choice != 7);
+
+
+
+
+        }
+
+        static void Menu()
+        {
+            Console.WriteLine("Student Managerment");
+            Console.WriteLine("1. Add a student");
+            Console.WriteLine("2. Sort student by gpa");
+            Console.WriteLine("3. Sort student by name");
+            Console.WriteLine("4. Search student");
+            Console.WriteLine("5. Update student");
+            Console.WriteLine("6. Delete student");
+            Console.WriteLine("7. Quit");
+            Console.WriteLine("Select your choice:");
+            int choice;
+            Cabinet cabin = new Cabinet();
+            do
+            {
                 string input = Console.ReadLine();
                 if (int.TryParse(input, out choice))
                 {
@@ -38,7 +87,6 @@ namespace StudentManager
                             cabin.AddStudentMenu();
                             break;
                         case 2:
-                            //sort by gpa
                             cabin.SortStudentByGpa();
                             break;
                         case 3:
@@ -67,20 +115,61 @@ namespace StudentManager
                 }
 
             } while (choice != 7);
-
         }
 
-        static void Menu()
+        static void Menu2()
         {
-            Console.WriteLine("Student Managerment");
-            Console.WriteLine("1. Add a student");
-            Console.WriteLine("2. Sort student by gpa");
-            Console.WriteLine("3. Sort student by name");
-            Console.WriteLine("4. Search student");
-            Console.WriteLine("5. Update student");
-            Console.WriteLine("6. Delete student");
+            Console.WriteLine("Lecturer Managerment");
+            Console.WriteLine("1. Add a lecturer");
+            Console.WriteLine("2. Sort lecturer by salary");
+            Console.WriteLine("3. Sort lecturer by name");
+            Console.WriteLine("4. Search lecturer");
+            Console.WriteLine("5. Update lecturer");
+            Console.WriteLine("6. Delete lecturer");
             Console.WriteLine("7. Quit");
             Console.WriteLine("Select your choice:");
+            int choice;
+            Cabinet cabin = new Cabinet();
+            do
+            {
+                string input = Console.ReadLine();
+                if (int.TryParse(input, out choice))
+                {
+
+                    switch (choice)
+                    {
+                        case 1:
+                            cabin.AddLecturerMenu();
+                            break;
+                        case 2:
+                            cabin.SortLecturerBySalary();
+                            break;
+                        case 3:
+                            cabin.SortLecturerByName();
+                            break;
+                        case 4:
+                            cabin.SearchLecturer();
+                            break;
+                        case 5:
+                            cabin.UpdateLecturer();
+                            break;
+                        case 6:
+                            cabin.DeleteLecturer();
+                            break;
+                        case 7:
+                            Console.WriteLine("Goodbye");
+                            return;
+                        default:
+                            Console.WriteLine("Invalid choice");
+                            break;
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Invalid input. Please enter an integer.");
+                }
+
+            } while (choice != 7);
         }
     }
 }

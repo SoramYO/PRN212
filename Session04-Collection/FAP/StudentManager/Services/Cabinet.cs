@@ -8,11 +8,13 @@ namespace StudentManager.Services
 
         //HÀNH ĐỘNG CỦA CÁI TỦ: CRUD - CREATE | RETRIEVE/READ | UPDATE | DELETE
         private Student[] _arr = new Student[30];
+        private Lecturer[] _arrLec = new Lecturer[30];
         private int _count = 0;
 
         public Cabinet(int size)//tủ đóng theo yêu cầu
         {
             _arr = new Student[size];
+            _arrLec = new Lecturer[size];
         }
         public Cabinet()
         {
@@ -82,6 +84,7 @@ namespace StudentManager.Services
             _arr[_count++] = s;
             // _count++;
         }
+
         // CÁC HÀM TRÙNG TÊN TRONG 1 CLASS, NHƯNG KHÁC THAM SỐ => OVERLOAD, OVERLOADING
         //OVERLOAD LÀ 1 THỂ HIỆN CỦA NGUYÊN LÍ ĐA HÌNH - POLYMORPHISM
         //TỪ 1 HÀM, ÁNH XẠ NHIỀU CÁCH CÀI CODE - IMPLEMENTATION
@@ -186,6 +189,121 @@ namespace StudentManager.Services
                     if (choice.ToUpper().Equals("Y"))
                     {
                         Array.Clear(_arr, Array.IndexOf(_arr, s), 1);
+
+                    }
+                }
+            }
+        }
+
+        public void AddALecturer(Lecturer l)
+        {
+            if (_count == _arrLec.Length)
+            {
+                Console.WriteLine("The cabinet is full, cannot add more lecturer");
+                return;
+            }
+            _arrLec[_count++] = l;
+        }
+
+        public void AddLecturerMenu()
+        {
+            Console.WriteLine("======Add Lecturer======");
+            Console.WriteLine("Enter Lecturer ID");
+            String id = Console.ReadLine();
+            Console.WriteLine("Enter Lecturer Name");
+            String name = Console.ReadLine();
+            Console.WriteLine("Enter Lecturer Yob");
+            int yob = int.Parse(Console.ReadLine());
+            Console.WriteLine("Enter Lecturer Salary");
+            double salary = double.Parse(Console.ReadLine());
+            Lecturer l = new Lecturer() { Id = id, Name = name, Yob = yob, Salary = salary };
+            AddALecturer(l);
+        }
+
+        public void SortLecturerBySalary()
+        {
+            Array.Sort(_arrLec, (l1, l2) =>
+            {
+                if (l1 == null || l2 == null)
+                {
+                    return l1 == null ? (l2 == null ? 0 : -1) : 1;
+                }
+                return l1.Salary.CompareTo(l2.Salary);
+            });
+            foreach (Lecturer l in _arrLec)
+            {
+                if (l != null)
+                {
+                    l.ShowProfile();
+                }
+            }
+        }
+
+        public void SortLecturerByName()
+        {
+            Array.Sort(_arrLec, (l1, l2) =>
+            {
+                if (l1 == null || l2 == null)
+                {
+                    return l1 == null ? (l2 == null ? 0 : -1) : 1;
+                }
+                return l1.Name.CompareTo(l2.Name);
+            });
+            foreach (Lecturer l in _arrLec)
+            {
+                if (l != null)
+                {
+                    l.ShowProfile();
+                }
+            }
+        }
+
+        public void SearchLecturer()
+        {
+            Console.WriteLine("Enter lecturer id to search");
+            string id = Console.ReadLine();
+            foreach (Lecturer l in _arrLec)
+            {
+                if (l != null && l.Id.Contains(id))
+                {
+                    l.ShowProfile();
+                }
+            }
+        }
+
+        public void UpdateLecturer()
+        {
+            Console.WriteLine("Enter lecturer id to update");
+            string id = Console.ReadLine();
+            foreach (Lecturer l in _arrLec)
+            {
+                if (l != null && l.Id.Contains(id))
+                {
+                    Console.WriteLine("Enter new name");
+                    l.Name = Console.ReadLine();
+                    Console.WriteLine("Enter new yob");
+                    l.Yob = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Enter new salary");
+                    l.Salary = double.Parse(Console.ReadLine());
+                    l.ShowProfile();
+                }
+            }
+        }
+
+        public void DeleteLecturer()
+        {
+            Console.WriteLine("Enter lecturer id to delete");
+            string id = Console.ReadLine();
+            foreach (Lecturer l in _arrLec)
+            {
+                if (l != null && l.Id.Contains(id))
+                {
+                    l.ShowProfile();
+                    Console.WriteLine("Do you want to delete this lecturer? (Y/N)");
+                    string choice = Console.ReadLine();
+                    if (choice.ToUpper().Equals("Y"))
+                    {
+                        Array.Clear(_arrLec, Array.IndexOf(_arrLec, l), 1);
 
                     }
                 }
