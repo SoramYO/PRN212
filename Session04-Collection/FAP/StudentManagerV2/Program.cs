@@ -99,3 +99,20 @@ namespace StudentManagerV2
 //quen List<Student>
 //     ArrrayList<Student> bên java
 //bên c y chang
+
+//QUAY LẠI BÀI CABINET
+//CHƠI GENERIC, CABINET CHƠI VỚI ĐỦ DẠNG MẢNG KHÁC NHAU BÊN TRONG NÓ! ! !
+
+//Có: CABINET<STUDENT>
+//CABINET<LECTURER>
+//CABINET < TIGER >
+
+//THAM SỐ HÓÁ CÁI VALUE CỦA HÀM -> ĐÃ QUEN TỪ C, JAVA KHI CHƠI HÀM
+//void F(int x)
+
+//THAM SỐ HÓÁ CÁI DATA TYPE ĐƯA VÀO HÀM,' DATA TYPE CX LÀ THAM SỐ LUÔN
+//void F(??? x)
+//??? có thể là int, double, Student, Lecturer...
+
+// THIẾT KẾ 1 CLASS, HÀM CÓ THỂ CHƠI VỚI ĐA DẠNG DATA TYPE (DĨ NHIÊN ĐA DẠNG VALUE CỦA DATA TYPE)
+//GENERIC (CHUNG CHUNG KO ĐỀ CẬP ĐẾN 1 DATA TYPE CỤ THỂ)
