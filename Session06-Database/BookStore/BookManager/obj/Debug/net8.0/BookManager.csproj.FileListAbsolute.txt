@@ -19,10 +19,16 @@ C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManag
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
@@ -129,3 +135,4 @@ C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManag
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\obj\Debug\net8.0\BookManager.pdb
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\obj\Debug\net8.0\BookManager.genruntimeconfig.cache
 C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\obj\Debug\net8.0\ref\BookManager.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session06-Database\BookStore\BookManager\bin\Debug\net8.0\appsettings.json

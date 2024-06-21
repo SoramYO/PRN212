@@ -3,9 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngoxu\\AppData\\Local\\Temp\\rewzex5n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session06-database\\bookstore\\bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -14,18 +11,16 @@
       "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\bookstorecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session06-database\\bookstore\\bookmanager\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session06-database\\bookstore\\bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session06-database\\bookstore\\bookmanager\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngoxu\\AppData\\Local\\Temp\\rewzex5n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ngoxu\\AppData\\Local\\Temp\\rewzex5n..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
+      "AbsoluteMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session06-database\\bookstore\\bookmanager\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{744A2E88-AF17-4E78-BEA5-C11F01F51690}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\entities\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,24 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManager\\appsettings.json",
+              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\appsettings.json",
+              "RelativeToolTip": "BookManager\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-19T06:56:56.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "BookStoreContext.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\BookStoreContext.cs",
               "RelativeDocumentMoniker": "BookManager\\BookStoreContext.cs",
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\BookStoreContext.cs",
               "RelativeToolTip": "BookManager\\BookStoreContext.cs",
-              "ViewState": "AQIAACkAAAAAAAAAAAAuwAAAAAAAAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAYwCcAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T07:43:48.855Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "BookCategory.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\Entities\\BookCategory.cs",
               "RelativeDocumentMoniker": "BookManager\\Entities\\BookCategory.cs",
@@ -65,13 +73,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "BookManager\\Entities\\Book.cs",
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\Entities\\Book.cs",
               "RelativeToolTip": "BookManager\\Entities\\Book.cs",
-              "ViewState": "AQIAABEAAAAAAAAAAAA9wAAAAAAAAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T07:41:43.672Z",
               "EditorCaption": ""
@@ -79,23 +87,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SQLQuery1.sql ",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\AppData\\Local\\Temp\\rewzex5n..sql",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\rewzex5n..sql",
-              "ToolTip": "SQLQuery1.sql *",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-06-15T07:06:47.41Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\Program.cs",
               "RelativeDocumentMoniker": "BookManager\\Program.cs",
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session06-Database\\BookStore\\BookManager\\Program.cs",
               "RelativeToolTip": "BookManager\\Program.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAAAcwBwAAABDAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBMAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-15T06:58:44.572Z",
               "EditorCaption": ""

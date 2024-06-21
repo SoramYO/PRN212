@@ -2,9 +2,14 @@
 using System.Collections.Generic;
 using BookManager.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 namespace BookManager;
 
+//là class cabinet từng học
+//nay nó kế thừa : extend DbContext
+//Cabinet nay có khả năng crud table
+//do DbContext của EFcode cung cấp
 public partial class BookStoreContext : DbContext
 {
     public BookStoreContext()
@@ -16,13 +21,30 @@ public partial class BookStoreContext : DbContext
     {
     }
 
+    //List <book> _arr
+    //_arr.Add(new Book{...})
+    //Book.Add(new Book{...})
     public virtual DbSet<Book> Books { get; set; }
 
     public virtual DbSet<BookCategory> BookCategories { get; set; }
 
+    private string? GetConnectionString()
+    {
+        IConfiguration configuration = new ConfigurationBuilder()
+                .SetBasePath(Directory.GetCurrentDirectory())
+                .AddJsonFile("appsettings.json", true, true).Build();
+        return configuration["ConnectionStrings:DefaultConnectionStringDB"];
+    }
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-#warning To protect potentially sensitive information in your connection string, you should move it out of source code. You can avoid scaffolding the connection string by using the Name= syntax to read it from configuration - see https://go.microsoft.com/fwlink/?linkid=2131148. For more guidance on storing connection strings, see https://go.microsoft.com/fwlink/?LinkId=723263.
-        => optionsBuilder.UseSqlServer("Server=(local);Database= BookStore;UID=sa;PWD=12345;TrustServerCertificate=True");
+    {
+        optionsBuilder.UseSqlServer(GetConnectionString());
+    }
+
+    //Tách chuỗi kết nối csdl ra khỏi dll. 
+    //Lưu chuỗi kết nối csdl ở file cấu hình lẻ bên ngoài
+    //để giúp linh hoạt trong việc thay đổi server, bảo mật kết nối khi đưa app ra ngoài
+    //các thao tác có sẵn trong đề thi k cần nhớ cú pháp, chỉ nhớ cách làm
+
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)
     {

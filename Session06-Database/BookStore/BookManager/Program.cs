@@ -6,8 +6,22 @@ namespace BookManager
     {
         static void Main(string[] args)
         {
-            //in ra tất cả các cuống sách
+
+            //thêm 1 cuốn sách rồi in ra
             BookStoreContext context = new();
+            context.Books.Add(new Book
+            {
+                BookId = 20,
+                BookName = "Conan",
+                Author = "Hoang",
+                Description = "Truyen tranh",
+                PublicationDate = DateTime.Now,
+                BookCategoryId = 1
+            });
+            context.SaveChanges();
+
+            //in ra tất cả các cuống sách
+
             //context là cơ sở dữ liệu BookStore mà ta muốn giao tiếp với nó
             //chính là thừng chứa chưa 1 list book và 1 list bookCategory
             //crud trên book thì ta gọi List<Book> này

@@ -1,0 +1,17 @@
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\bin\Debug\net8.0-windows\BookManagerGUIForms.exe
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\bin\Debug\net8.0-windows\BookManagerGUIForms.deps.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\bin\Debug\net8.0-windows\BookManagerGUIForms.runtimeconfig.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\bin\Debug\net8.0-windows\BookManagerGUIForms.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\bin\Debug\net8.0-windows\BookManagerGUIForms.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.csproj.GenerateResource.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.AssemblyInfoInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.AssemblyInfo.cs
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.csproj.CoreCompileInputs.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.sourcelink.json
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\refint\BookManagerGUIForms.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.pdb
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.genruntimeconfig.cache
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\ref\BookManagerGUIForms.dll
+C:\Users\ngoxu\Downloads\Documents\PRN212\Session07-GUI\BookStore\BookManagerGUIForms\obj\Debug\net8.0-windows\BookManagerGUIForms.BookListForm.resources

@@ -1,0 +1,112 @@
+Giải ngố về entityfamework core (EF core đang version 8.0)
+
+0 thế giới code  ------ chơi với db ntn?
+
+App đang viết  ----giao tiếp crud ----- database
+Dùng NNLT: c#, java                     sql NOSQL
+xử lí data trong ram ----cất trữ lâu dài --- vào tập tin/hoặc csdl
+			persistence
+		----------cần thêm thư viện lập trình-------------
+			Library - Dependency (Tao cần mày để dùng csdl)
+		2. Style viết code khi chơi với csdl
+		 	-Code first
+			-Database first
+>>> Code first: Dân dev tập trung viết code, OOP
+		Từ code tạo ra table & relationship giữa các table
+
+
+>>> Database first: Dân dev thiết kế table trước
+		    Map ngược trở lại các class trong code
+
+Cả 2 sau khi đã nối thông code và cơ sở dữ liệu, hàng ngày dân dev tiếp tực code
+Khi viết code hàng ngày thì việc crud trên table/database thì làm thế nào
+2 cách tiếp cận khi viết thao tác với table
+
+-Dugnf Sql trong code: kiểu truyền thống
+Java: jbdc
+c#: abo .NET
+
+-DÙng OOP thuần kiểu hiện đại(về lí thuyết: ko cần viết câu sql) toàn gọi method k code
+
+java: JPA/Hibernate
+c#: EF CORE, Dapper của hãng khác
+Kĩ thuật hiện đại gọi cung là orm - object relational mapping
+
+
+1. EF core là gì??? là bộ thư vineej giúp kết nối code c# và csdl nói chung theo orm
+thuần oop không code
+-Nó support connect db theo 2 style code & db first
+-Để dùng nó cần cài 2 nhóm thư viện 2 dll 2 package
+Đều được lấy từ nuget.org(server chứa file dll toàn cầu)
+	* các file dll này được add vào prject dể xài các class trong dll đê code
+
+Java: Để tải các thư viện Hibernate nói riêng những file .jar
+      Ta tải từ MVNREPOSITORY.COM nơi chưa các file .jar
+      và ta dùng lệnh mvn
+      và ta khai báo dependency ta cần trong 1 file pom.xml
+Nodejs và react: có 1 kho các dependency/module để tải về
+		khai báo các thư viện cần xài ở package.json
+		dùng lệnh npm(node package management/manager)
+npm ~ mvn ~ nuget
+
+-khi cài efcore, cần cài 2 thứ 2 thư viện
+NHóm 1 cài từ dòng lệnh tích hợp vào dotnet.exe có khi cài .net sdk
+cái này gọi là efcore cli(cli: command line interface - gõ lệnh)
+dùng để genarate code từ table hỗ trợ tăng tốc viets code - gõ bộ lệnh nằm ngoài
+Lệnh: 
+> dotnet tool install --global dotnet-ef --version 8.*
+> dotnet tool install --global dotnet-ef                 //install the latest version
+
+Nhóm 2: cì bộ thư viện dùng trong vs code để viết code để tương tác sql server nói riêng
+csdl nói chung dùng nuget manager để tích hợp 4 thư viện efcore vào project
+
+> Microsoft.EntityFrameworkCore
+> Microsoft.EntityFrameworkCore.Design
+> Microsoft.EntityFrameworkCore.Tools
+> Microsoft.EntityFrameworkCore.SqlServer
+
+4 Name space thư mục chứa code, bên trong 1 đống file .dll
+
+2. Dùng EF code cli dể suy ngược code từ database - db first
+gõ lệnh
+> dotnet ef dbcontext scaffold "Server=(local);Database= BookManagementDb;UID=sa;PWD=sa123456;TrustServerCertificate=True" "Microsoft.EntityFrameworkCore.SqlServer" --output-dir "Entities" --context-dir ".\"
+
+Lệnh này sẽ sinh ra: các entity class map 100% cấu trúc bên trong với các table trong cldl 
+-có 10 table trong csdl thì có 11 class được sinh ra
+
+class cabinnet (thùng chứa chưa list các object)
+				Cabinet<T>, Cabinet
+						{
+
+							private List <Student> _arr
+							CRUD
+							void Add(Student x) => _arr.Add(x)					
+				
+					
+						}
+*Db context class class - cực kì quan trọng quan trọng nhất khi chơi csdl
+chính là đại sứ đại diện cho csdl trong code
+
+Muốn crud table thì cứ gọi qua class db context - class này có sẵn trong efcore code ta sẽ kế thừa độ lại
+	- Danh sách các table
+	- Chuỗi kết nối csdl
+- Class Dbcontext chứa
+	List<Book> Book/_arr
+	List<Category>Category/_arr
+thêm sách Book.Add(new Book(){})
+	  _arr.Add(new Book(){})
+
+gọi hàm SaveChange() của class mẹ Dbcontext
+thực ra Dbcontext k chưa List<Book> mà là Dbset<Book>
+				giống như List nhưng mạnh hơn List
+				do đó khi chơi với Dbcontext thì phải convert từ Dbset về List
+code/project                                      db
+-entity class book (get; set;)                    -Table Book
+-entity class category (get; set;)                -Table category
+
+3.Tách file cấu hình lưu trữ chuôix kết nối csdl
+
+3.1 tạo file json
+3.2 Copy/paste cái chuỗi kết nối vào json
+3.3 Sửa class Dbcontext để đọc file .json
+3.4 Add thêm dependecy xử lí file .json
