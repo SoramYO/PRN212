@@ -1,0 +1,20 @@
+﻿<Application x:Class="BookManagerGUIWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:BookManagerGUIWPF"
+             StartupUri="Login.xaml">
+    <Application.Resources>
+        <Style TargetType="Button">
+            <!--Make the button more betifull-->
+            <Setter Property="Background" Value="Aqua"/>
+            <Setter Property="Foreground" Value="AliceBlue"/>
+            <Setter Property="FontSize" Value="22"/>
+            <Setter Property="Height" Value="52"/>
+            <Setter Property="Width" Value="206"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Top"/>
+            <Setter Property="Margin" Value="0,372,0,0"/>
+        </Style>
+
+    </Application.Resources>
+</Application>
