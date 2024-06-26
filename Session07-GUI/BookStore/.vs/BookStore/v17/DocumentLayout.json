@@ -31,7 +31,7 @@
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -39,7 +39,7 @@
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -66,8 +66,7 @@
               "RelativeToolTip": "BookManagerGUIWPF\\Login.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAawB0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:50:05.204Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:50:05.204Z"
             },
             {
               "$type": "Document",
@@ -102,8 +101,7 @@
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
               "RelativeToolTip": "BookManagerGUIWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-22T07:25:03.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:25:03.832Z"
             },
             {
               "$type": "Document",
@@ -115,8 +113,7 @@
               "RelativeToolTip": "BookManagerGUIWPF\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:25:03.512Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:25:03.512Z"
             },
             {
               "$type": "Document",
@@ -128,8 +125,7 @@
               "RelativeToolTip": "BookManagerGUIForms\\BookListForm.Designer.cs",
               "ViewState": "AQIAAGEAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:06:03.9Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:06:03.9Z"
             },
             {
               "$type": "Document",
@@ -140,8 +136,7 @@
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs [Design]",
               "RelativeToolTip": "BookManagerGUIForms\\BookListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:06:05.6Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T07:06:05.6Z"
             },
             {
               "$type": "Document",
@@ -153,8 +148,7 @@
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.Designer.cs",
               "ViewState": "AQIAACAAAAAAAAAAAAAYwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:05:48.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:05:48.403Z"
             },
             {
               "$type": "Document",
@@ -165,8 +159,7 @@
               "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs [Design]",
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:05:23.888Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-06-22T07:05:23.888Z"
             },
             {
               "$type": "Document",
@@ -178,8 +171,7 @@
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIA0wBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:02:52.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:02:52.776Z"
             },
             {
               "$type": "Document",
@@ -191,8 +183,7 @@
               "RelativeToolTip": "BookManagerGUIForms\\BookListForm.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAMwDMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-19T07:24:31.008Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-19T07:24:31.008Z"
             }
           ]
         }
