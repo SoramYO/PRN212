@@ -13,11 +13,20 @@ namespace BookManagement.BLL.Services
         private BookRepository _repo = new(); //new luôn
 
 
+
         //các hàm crud book trong ram đều nhờ cậy từ repo
         //đặt tên hàm 
         public List<Book> GetAllBooks()
         {
             return _repo.GetAll(); //phân trang sort trước khi trả về ...
+
         }
+        //nhận cuốn sách từ GUI và đưa xuống repo
+        public void CreateBook(Book book)
+        {
+            _repo.Create(book);
+        }
+
+
     }
 }

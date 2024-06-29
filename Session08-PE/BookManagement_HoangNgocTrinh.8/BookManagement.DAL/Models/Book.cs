@@ -22,4 +22,10 @@ public partial class Book
     public int BookCategoryId { get; set; }
 
     public virtual BookCategory BookCategory { get; set; } = null!;
+    //biến object trỏ vào table category bên tay trái
+    //class và table category(chứa cate id mà cuốn sách đó thuộc về)
+    //                      genre type Description
+    //                      biến này gọi là navigation Path
+    //                      nhờ biến này giúp ta join 2 table category và book
+    //                      đưa câu biến vào trong câu join khi sờ table List<Book> Books trong db context
 }

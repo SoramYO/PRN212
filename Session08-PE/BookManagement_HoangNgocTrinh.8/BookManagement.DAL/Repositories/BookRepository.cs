@@ -1,4 +1,5 @@
 ﻿using BookManagement.DAL.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace BookManagement.DAL.Repositories
 {
@@ -22,9 +23,27 @@ namespace BookManagement.DAL.Repositories
         public List<Book> GetAll()
         {
             _context = new BookManagementDbContext();
-            return _context.Books.ToList();
+
+            //select từ cuốn sách trong table new Book() và add vào List<Book> 
+            //Nhưng lười k join k có new category nên trong cuốn sách để đảm bảo performance
+            //nếu ta muốn lấy luôn category thì phải join
+            //toán từ Include<Biến trỏ đến table cần join>
+            //biến này gọi là navigation path đường giúp sang table khác
+
+            //return _context.Books.ToList();
+            return _context.Books.Include("BookCategory").ToList();
+            //đã join sang table BookCategory qua biến BookCategory {get;set;}
         }
 
+        public void Create(Book book)
+        {
+            _context = new BookManagementDbContext();
+            _context.Books.Add(book);
+            _context.SaveChanges();
+        }//đã xong insert cuốn mới từ GUI đưa xuống vì từ
+        //GUI gọi service gọi repo gọi dbcontext gọi db
+        //Tương tự ta có hàm Update, Delete(Book book), Delete(int id)
+        //remove 1 object từ List hoặc remove theo PK where id
     }
 
 }
