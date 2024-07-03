@@ -1,18 +1,6 @@
 ﻿using BookManagement.BLL.Services;
 using BookManagement.DAL.Models;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Shapes;
 
 namespace BookManagement_HoangNgocTrinh
 {
@@ -48,11 +36,11 @@ namespace BookManagement_HoangNgocTrinh
             Book book = new Book();
             book.BookId = int.Parse(BookIdTextBox.Text);
             book.BookName = BookNameTextBox.Text;
-            book.Description = BookDescriptionTextBox.Text;
-            book.PublicationDate = DateTime.Parse(BookPublicationDateTextBox.Text);
-            book.Quantity = int.Parse(BookQuantityTextBox.Text);
-            book.Price = double.Parse(BookPriceTextBox.Text);
-            book.Author = BookAuthorTextBox.Text;
+            book.Description = DescriptionTextBox.Text;
+            book.PublicationDate = DateTime.Now;
+            book.Quantity = int.Parse(QuantityTextBox.Text);
+            book.Price = double.Parse(PriceTextBox.Text);
+            book.Author = AuthorTextBox.Text;
             book.BookCategoryId = int.Parse(BookCategoryIdComboBox.SelectedValue.ToString());
 
             _service.CreateBook(book);

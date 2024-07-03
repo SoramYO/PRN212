@@ -1,0 +1,16 @@
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\bin\Debug\net8.0\appsettings.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\bin\Debug\net8.0\BookManagementDAL.deps.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\bin\Debug\net8.0\BookManagementDAL.runtimeconfig.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\bin\Debug\net8.0\BookManagementDAL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\bin\Debug\net8.0\BookManagementDAL.pdb
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.csproj.AssemblyReference.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.AssemblyInfoInputs.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.AssemblyInfo.cs
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.sourcelink.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\refint\BookManagementDAL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.pdb
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.genruntimeconfig.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\ref\BookManagementDAL.dll

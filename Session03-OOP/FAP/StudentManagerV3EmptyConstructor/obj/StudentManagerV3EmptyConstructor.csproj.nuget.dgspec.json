@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj": {}
+    "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj": {
+    "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+        "projectUniqueName": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
         "projectName": "StudentManagerV3EmptyConstructor",
-        "projectPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
-        "packagesPath": "C:\\Users\\ngoxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\obj\\",
+        "projectPath": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\StudentManagerV3EmptyConstructor.csproj",
+        "packagesPath": "C:\\Users\\Soram\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerV3EmptyConstructor\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ngoxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Soram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

@@ -1,0 +1,60 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD8C39-91FB-4D8E-86E6-F37EAE98DFB2}|ReadQRBar\\ReadQRBar.csproj|d:\\documents\\prn212\\assignment\\readqrbar\\readqrbar\\readqrbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDD8C39-91FB-4D8E-86E6-F37EAE98DFB2}|ReadQRBar\\ReadQRBar.csproj|solutionrelative:readqrbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDD8C39-91FB-4D8E-86E6-F37EAE98DFB2}|ReadQRBar\\ReadQRBar.csproj|D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\readqrbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EBDD8C39-91FB-4D8E-86E6-F37EAE98DFB2}|ReadQRBar\\ReadQRBar.csproj|solutionrelative:readqrbar\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\ReadQRBar\\Form1.cs",
+              "RelativeDocumentMoniker": "ReadQRBar\\Form1.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\ReadQRBar\\Form1.cs",
+              "RelativeToolTip": "ReadQRBar\\Form1.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAADgv0oAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:32:44.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\ReadQRBar\\Form1.cs",
+              "RelativeDocumentMoniker": "ReadQRBar\\Form1.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Assignment\\ReadQRBar\\ReadQRBar\\ReadQRBar\\Form1.cs [Design]",
+              "RelativeToolTip": "ReadQRBar\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T04:44:52.944Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

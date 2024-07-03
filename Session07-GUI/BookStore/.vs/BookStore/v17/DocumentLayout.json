@@ -1,49 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\",
+  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\booklistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE210F7-B82A-4BB4-BE0B-068B4D415744}|BookManagerGUIWPF\\BookManagerGUIWPF.csproj|solutionrelative:bookmanagerguiwpf\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\booklistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|d:\\documents\\prn212\\session07-gui\\bookstore\\bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0D5A1CCC-64A9-4FDF-B842-BD0B141034DB}|BookManagerGUIForms\\BookManagerGUIForms.csproj|solutionrelative:bookmanagerguiforms\\bookdetailform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,15 +50,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Login.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml.cs",
               "RelativeDocumentMoniker": "BookManagerGUIWPF\\Login.xaml.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml.cs",
               "RelativeToolTip": "BookManagerGUIWPF\\Login.xaml.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAawB0AAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,46 +66,44 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Login.xaml",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml",
               "RelativeDocumentMoniker": "BookManagerGUIWPF\\Login.xaml",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\Login.xaml",
               "RelativeToolTip": "BookManagerGUIWPF\\Login.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-22T07:49:45.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:49:45.936Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\App.xaml",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\App.xaml",
               "RelativeDocumentMoniker": "BookManagerGUIWPF\\App.xaml",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\App.xaml",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\App.xaml",
               "RelativeToolTip": "BookManagerGUIWPF\\App.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-06-22T07:27:16.017Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-22T07:27:16.017Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
               "RelativeDocumentMoniker": "BookManagerGUIWPF\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml",
               "RelativeToolTip": "BookManagerGUIWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-06-22T07:25:03.832Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "BookManagerGUIWPF\\MainWindow.xaml.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIWPF\\MainWindow.xaml.cs",
               "RelativeToolTip": "BookManagerGUIWPF\\MainWindow.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,57 +111,47 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "BookListForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.Designer.cs",
-              "RelativeDocumentMoniker": "BookManagerGUIForms\\BookListForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.Designer.cs",
-              "RelativeToolTip": "BookManagerGUIForms\\BookListForm.Designer.cs",
-              "ViewState": "AQIAAGEAAAAAAAAAAAAYwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:06:03.9Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 2,
               "Title": "BookListForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
               "RelativeDocumentMoniker": "BookManagerGUIForms\\BookListForm.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs [Design]",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs [Design]",
               "RelativeToolTip": "BookManagerGUIForms\\BookListForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T07:06:05.6Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "BookDetailForm.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
               "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.Designer.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.Designer.cs",
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.Designer.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:05:48.403Z"
+              "WhenOpened": "2024-06-22T07:05:48.403Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "BookDetailForm.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
               "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs [Design]",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs [Design]",
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T07:05:23.888Z"
+              "WhenOpened": "2024-06-22T07:05:23.888Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "BookDetailForm.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
               "RelativeDocumentMoniker": "BookManagerGUIForms\\BookDetailForm.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookDetailForm.cs",
               "RelativeToolTip": "BookManagerGUIForms\\BookDetailForm.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAIA0wBQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -177,9 +161,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "BookListForm.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
               "RelativeDocumentMoniker": "BookManagerGUIForms\\BookListForm.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session07-GUI\\BookStore\\BookManagerGUIForms\\BookListForm.cs",
               "RelativeToolTip": "BookManagerGUIForms\\BookListForm.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAMwDMAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

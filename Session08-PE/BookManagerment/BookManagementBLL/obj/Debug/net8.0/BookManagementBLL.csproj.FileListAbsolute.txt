@@ -1,0 +1,17 @@
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\appsettings.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementBLL.deps.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementBLL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementBLL.pdb
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementDAL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementDAL.pdb
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.csproj.AssemblyReference.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.AssemblyInfoInputs.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.AssemblyInfo.cs
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.sourcelink.json
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookMana.E16897C4.Up2Date
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\refint\BookManagementBLL.dll
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.pdb
+D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\ref\BookManagementBLL.dll

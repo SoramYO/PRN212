@@ -26,16 +26,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -46,8 +38,7 @@
               "RelativeToolTip": "StudentManagerV3\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:47:14.019Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:47:14.019Z"
             },
             {
               "$type": "Document",
@@ -59,8 +50,7 @@
               "RelativeToolTip": "StudentManagerV3\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAwwAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:40:41.741Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:40:41.741Z"
             },
             {
               "$type": "Document",
@@ -72,8 +62,7 @@
               "RelativeToolTip": "StudentManagerV3\\Services\\LecturerCabinet.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T15:28:04.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-12T15:28:04.832Z"
             },
             {
               "$type": "Document",
