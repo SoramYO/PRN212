@@ -1,5 +1,4 @@
 ﻿using System.Windows;
-
 namespace ProductManagermentUI
 {
     /// <summary>
@@ -11,5 +10,6 @@ namespace ProductManagermentUI
         {
             InitializeComponent();
         }
+
     }
 }

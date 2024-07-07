@@ -226,6 +226,10 @@
               "target": "Package",
               "version": "[2024.7.1, )"
             },
+            "Microsoft.UI.Xaml": {
+              "target": "Package",
+              "version": "[2.8.6, )"
+            },
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
@@ -241,6 +245,10 @@
             "ZXing.Net": {
               "target": "Package",
               "version": "[0.16.9, )"
+            },
+            "ZXing.Net.Bindings.Windows.Compatibility": {
+              "target": "Package",
+              "version": "[0.16.12, )"
             }
           },
           "imports": [
