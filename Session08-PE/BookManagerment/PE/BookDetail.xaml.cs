@@ -11,17 +11,17 @@ namespace BookManagementUI
     {
         private BookService _service = new();
         private CategoryService _categoryService = new();
-        private Book _book = new();
+        public Book SelectedBook { get; set; }
 
-        public BookDetail(Book book)
+        public BookDetail()
         {
             InitializeComponent();
-            _book = book;
+
         }
 
         private void SaveButton_Click(object sender, RoutedEventArgs e)
         {
-            if (_book == null)
+            if (SelectedBook == null)
             {
                 AddBook();
             }
@@ -34,15 +34,15 @@ namespace BookManagementUI
         }
         private void UpdateBook()
         {
-            _book.BookName = BookNameTextBox.Text;
-            _book.Description = DescriptionTextBox.Text;
-            _book.Author = AuthorTextBox.Text;
-            _book.PublicationDate = DateTime.Parse(PublicationDateDatePicker.Text);
-            _book.Quantity = int.Parse(QuantityTextBox.Text);
-            _book.Price = double.Parse(PriceTextBox.Text);
-            _book.BookCategoryId = int.Parse(BookCategoryIdComboBox.SelectedValue.ToString());
+            SelectedBook.BookName = BookNameTextBox.Text;
+            SelectedBook.Description = DescriptionTextBox.Text;
+            SelectedBook.Author = AuthorTextBox.Text;
+            SelectedBook.PublicationDate = DateTime.Parse(PublicationDateDatePicker.Text);
+            SelectedBook.Quantity = int.Parse(QuantityTextBox.Text);
+            SelectedBook.Price = double.Parse(PriceTextBox.Text);
+            SelectedBook.BookCategoryId = int.Parse(BookCategoryIdComboBox.SelectedValue.ToString());
 
-            _service.UpdateBook(_book);
+            _service.UpdateBook(SelectedBook);
         }
         private void AddBook()
         {
@@ -92,14 +92,14 @@ namespace BookManagementUI
 
             if (_book != null)
             {
-                BookIdTextBox.Text = _book.BookId.ToString();
-                BookNameTextBox.Text = _book.BookName;
-                DescriptionTextBox.Text = _book.Description;
-                AuthorTextBox.Text = _book.Author;
-                PublicationDateDatePicker.Text = _book.PublicationDate.ToString();
-                QuantityTextBox.Text = _book.Quantity.ToString();
-                PriceTextBox.Text = _book.Price.ToString();
-                BookCategoryIdComboBox.SelectedValue = _book.BookCategoryId;
+                BookIdTextBox.Text = SelectedBook.BookId.ToString();
+                BookNameTextBox.Text = SelectedBook.BookName;
+                DescriptionTextBox.Text = SelectedBook.Description;
+                AuthorTextBox.Text = SelectedBook.Author;
+                PublicationDateDatePicker.Text = SelectedBook.PublicationDate.ToString();
+                QuantityTextBox.Text = SelectedBook.Quantity.ToString();
+                PriceTextBox.Text = SelectedBook.Price.ToString();
+                BookCategoryIdComboBox.SelectedValue = SelectedBook.BookCategoryId;
             }
         }
         private void CloseButton_Click(object sender, RoutedEventArgs e)

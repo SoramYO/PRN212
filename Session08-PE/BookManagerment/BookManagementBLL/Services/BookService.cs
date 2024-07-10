@@ -31,9 +31,9 @@ namespace BookManagementBLL.Services
             _repo.Update(book);
         }
 
-        public void DeleteBook(int id)
+        public void DeleteBook(Book book)
         {
-            _repo.Delete(id);
+            _repo.Delete(book);
         }
     }
 }

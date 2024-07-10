@@ -42,10 +42,9 @@ namespace BookManagementDAL.Repositories
             _context.SaveChanges();
         }
 
-        public void Delete(int id)
+        public void Delete(Book book)
         {
             _context = new BookManagementDbContext();
-            var book = _context.Books.FirstOrDefault(b => b.BookId == id);
             _context.Books.Remove(book);
             _context.SaveChanges();
         }

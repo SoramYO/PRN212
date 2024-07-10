@@ -67,7 +67,8 @@ namespace PE
         {
             if (BookListDataGrid.SelectedItem is Book selectedBook)
             {
-                BookDetail bookDetail = new(selectedBook);
+                BookDetail bookDetail = new();
+                bookDetail.SelectedBook = selectedBook;
                 bookDetail.ShowDialog();
 
                 RefreshDataGrid();
@@ -82,9 +83,13 @@ namespace PE
                 MessageBoxResult result = MessageBox.Show("Are you sure you want to delete this book?", "Delete Book", MessageBoxButton.YesNo);
                 if (result == MessageBoxResult.Yes)
                 {
-                    _service.DeleteBook(selectedBook.BookId);
+                    _service.DeleteBook(selectedBook);
                     RefreshDataGrid();
                 }
+            }
+            else
+            {
+                MessageBox.Show("Please select a book to delete");
             }
         }
     }
