@@ -1,0 +1,15 @@
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\bin\Debug\net8.0\MilkTeaManagerDAL.deps.json
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\bin\Debug\net8.0\MilkTeaManagerDAL.runtimeconfig.json
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\bin\Debug\net8.0\MilkTeaManagerDAL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\bin\Debug\net8.0\MilkTeaManagerDAL.pdb
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.csproj.AssemblyReference.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.AssemblyInfoInputs.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.AssemblyInfo.cs
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.sourcelink.json
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\refint\MilkTeaManagerDAL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.pdb
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\MilkTeaManagerDAL.genruntimeconfig.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerDAL\obj\Debug\net8.0\ref\MilkTeaManagerDAL.dll

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\",
+  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|d:\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|solutionrelative:studentmanagervfinalfantansy\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|d:\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|solutionrelative:studentmanagervfinalfantansy\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|c:\\users\\ngoxu\\downloads\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\studentmanagervfinalfantansy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|d:\\documents\\prn212\\session03-oop\\fap\\studentmanagervfinalfantansy\\studentmanagervfinalfantansy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{3F113748-AC08-40C7-817A-6DB68291E6A9}|StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj|solutionrelative:studentmanagervfinalfantansy\\studentmanagervfinalfantansy.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerVFinalFantansy\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerVFinalFantansy\\Entities\\Student.cs",
               "ViewState": "AQIAADoAAAAAAAAAAAAqwEoAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -41,27 +41,25 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Program.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerVFinalFantansy\\Program.cs",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Program.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\Program.cs",
               "RelativeToolTip": "StudentManagerVFinalFantansy\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-05T05:55:29.097Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T05:55:29.097Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "StudentManagerVFinalFantansy",
-              "DocumentMoniker": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "Title": "StudentManagerVFinalFantansy.csproj",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
               "RelativeDocumentMoniker": "StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
-              "ToolTip": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
+              "ToolTip": "D:\\Documents\\PRN212\\Session03-OOP\\FAP\\StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
               "RelativeToolTip": "StudentManagerVFinalFantansy\\StudentManagerVFinalFantansy.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-05T05:55:26.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-05T05:55:26.785Z"
             }
           ]
         }

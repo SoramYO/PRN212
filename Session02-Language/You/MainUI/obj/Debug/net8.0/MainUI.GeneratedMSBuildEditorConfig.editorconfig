@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MainUI
-build_property.ProjectDir = C:\Users\Soram\Source\Repos\PRN212\Session02-Language\You\MainUI\
+build_property.ProjectDir = D:\Documents\PRN212\Session02-Language\You\MainUI\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

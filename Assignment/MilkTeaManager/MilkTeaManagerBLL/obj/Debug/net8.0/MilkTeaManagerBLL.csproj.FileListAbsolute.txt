@@ -1,0 +1,16 @@
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\bin\Debug\net8.0\MilkTeaManagerBLL.deps.json
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\bin\Debug\net8.0\MilkTeaManagerBLL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\bin\Debug\net8.0\MilkTeaManagerBLL.pdb
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\bin\Debug\net8.0\MilkTeaManagerDAL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\bin\Debug\net8.0\MilkTeaManagerDAL.pdb
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.csproj.AssemblyReference.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.AssemblyInfoInputs.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.AssemblyInfo.cs
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.sourcelink.json
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaM.7DB03CDD.Up2Date
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\refint\MilkTeaManagerBLL.dll
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\MilkTeaManagerBLL.pdb
+D:\Documents\PRN212\Assignment\MilkTeaManager\MilkTeaManagerBLL\obj\Debug\net8.0\ref\MilkTeaManagerBLL.dll

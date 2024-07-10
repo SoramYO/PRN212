@@ -1,0 +1,16 @@
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\bin\Debug\net8.0\ProductManagermentBLL.deps.json
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\bin\Debug\net8.0\ProductManagermentBLL.dll
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\bin\Debug\net8.0\ProductManagermentBLL.pdb
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\bin\Debug\net8.0\ProductManagementDAL.dll
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\bin\Debug\net8.0\ProductManagementDAL.pdb
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.csproj.AssemblyReference.cache
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.AssemblyInfoInputs.cache
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.AssemblyInfo.cs
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.csproj.CoreCompileInputs.cache
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.sourcelink.json
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductM.BDC29A90.Up2Date
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.dll
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\refint\ProductManagermentBLL.dll
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ProductManagermentBLL.pdb
+D:\Documents\PRN212\Assignment\ProductManagerment\ProductManagermentBLL\obj\Debug\net8.0\ref\ProductManagermentBLL.dll

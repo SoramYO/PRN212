@@ -47,7 +47,7 @@ namespace BookManagement_HoangNgocTrinh {
         /// InitializeComponent
         /// </summary>
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.5.0")]
         public void InitializeComponent() {
             if (_contentLoaded) {
                 return;
@@ -59,7 +59,7 @@ namespace BookManagement_HoangNgocTrinh {
             
             #line default
             #line hidden
-            System.Uri resourceLocater = new System.Uri("/BookManagement_HoangNgocTrinh;component/app.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookManagement_HoangNgocTrinh;V1.0.0.0;component/app.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\App.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
@@ -73,7 +73,7 @@ namespace BookManagement_HoangNgocTrinh {
         /// </summary>
         [System.STAThreadAttribute()]
         [System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.6.0")]
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("PresentationBuildTasks", "8.0.5.0")]
         public static void Main() {
             BookManagement_HoangNgocTrinh.App app = new BookManagement_HoangNgocTrinh.App();
             app.InitializeComponent();

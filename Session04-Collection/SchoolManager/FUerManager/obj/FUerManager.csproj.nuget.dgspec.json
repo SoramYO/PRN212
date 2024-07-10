@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj": {}
+    "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj": {
+    "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj",
+        "projectUniqueName": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj",
         "projectName": "FUerManager",
-        "projectPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj",
-        "packagesPath": "C:\\Users\\ngoxu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ngoxu\\Downloads\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\obj\\",
+        "projectPath": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\FUerManager.csproj",
+        "packagesPath": "C:\\Users\\Soram\\.nuget\\packages\\",
+        "outputPath": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ngoxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Soram\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
