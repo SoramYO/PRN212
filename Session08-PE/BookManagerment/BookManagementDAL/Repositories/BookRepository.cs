@@ -5,7 +5,7 @@ namespace BookManagementDAL.Repositories
 {
     public class BookRepository
     {
-        private BookManagementDbContext _context = new();
+        private BookManagementDbContext? _context;
 
         public List<Book> GetAll()
         {
@@ -15,12 +15,13 @@ namespace BookManagementDAL.Repositories
 
         public Book Get(int id)
         {
-            return _context.Books.Include(b => b.BookCategory)
-                                 .FirstOrDefault(b => b.BookId == id);
+            _context = new BookManagementDbContext();
+            return _context.Books.Include(b => b.BookCategory).FirstOrDefault(b => b.BookId == id);
         }
 
         public List<Book> Search(string keyword)
         {
+            _context = new BookManagementDbContext();
             return _context.Books.Include(b => b.BookCategory)
                                  .Where(b => b.BookName
                                  .Contains(keyword)
@@ -45,6 +46,7 @@ namespace BookManagementDAL.Repositories
         public void Delete(Book book)
         {
             _context = new BookManagementDbContext();
+            //var book = _context.Books.FirstOrDefault(b => b.BookId == id);
             _context.Books.Remove(book);
             _context.SaveChanges();
         }

@@ -5,9 +5,9 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:BookManagementUI"
         mc:Ignorable="d"
-       Title="Book Detail" Height="750" Width="1145" Background="#FFD4F7D4" Loaded="Window_Loaded">
+       Title="Book Detail" Height="750" Width="1145" Background="#FFD4F7D4" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded">
     <Grid >
-        <Label Content="Create | Update Book" HorizontalAlignment="Left" Height="80" Margin="31,20,0,0" VerticalAlignment="Top" Width="659" FontWeight="Heavy" FontSize="50"/>
+        <Label x:Name="BookModeLabel" Content="Create | Update Book" HorizontalAlignment="Left" Height="80" Margin="31,20,0,0" VerticalAlignment="Top" Width="659" FontWeight="Heavy" FontSize="50"/>
         <Rectangle HorizontalAlignment="Left" Height="545" Margin="38,144,0,0" Stroke="Black" VerticalAlignment="Top" Width="875" Fill="Aqua"/>
         <Label Content="Book ID" HorizontalAlignment="Left" Height="45" Margin="58,172,0,0" VerticalAlignment="Top" Width="107" />
         <TextBox x:Name="BookIdTextBox" HorizontalAlignment="Left" Height="45" Margin="226,169,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="275" TabIndex="0"/>

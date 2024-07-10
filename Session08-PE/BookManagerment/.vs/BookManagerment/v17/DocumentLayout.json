@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|d:\\documents\\prn212\\session08-pe\\bookmanagerment\\pe\\bookdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\pe\\bookdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|solutionrelative:pe\\bookdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|d:\\documents\\prn212\\session08-pe\\bookmanagerment\\pe\\mainscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|solutionrelative:pe\\mainscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\bookmanagementdal\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|solutionrelative:bookmanagementdal\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|d:\\documents\\prn212\\session08-pe\\bookmanagerment\\pe\\mainscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\bookmanagementdal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|solutionrelative:bookmanagementdal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\pe\\mainscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|solutionrelative:pe\\mainscreen.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{49A133A6-D82B-489C-A490-59C9AF288A4E}|BookManagementBLL\\BookManagementBLL.csproj|d:\\documents\\prn212\\session08-pe\\bookmanagerment\\bookmanagementbll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\bookmanagementdal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|solutionrelative:bookmanagementdal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49A133A6-D82B-489C-A490-59C9AF288A4E}|BookManagementBLL\\BookManagementBLL.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\bookmanagementbll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{49A133A6-D82B-489C-A490-59C9AF288A4E}|BookManagementBLL\\BookManagementBLL.csproj|solutionrelative:bookmanagementbll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|d:\\documents\\prn212\\session08-pe\\bookmanagerment\\bookmanagementdal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A55DDA9-FEFD-4550-89D3-B33170B17EE1}|BookManagementDAL\\BookManagementDAL.csproj|solutionrelative:bookmanagementdal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\pe\\mainscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|solutionrelative:pe\\mainscreen.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|e:\\prn212-master\\session08-pe\\bookmanagerment\\pe\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7B4A4E30-D49D-491E-849B-A856B645D491}|PE\\BookManagementUI.csproj|solutionrelative:pe\\bookdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +42,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "BookManagementDbContext.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\BookManagementDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagementDAL\\BookManagementDbContext.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\BookManagementDbContext.cs",
+              "RelativeToolTip": "BookManagementDAL\\BookManagementDbContext.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T07:48:37.221Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagementDAL\\appsettings.json",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\appsettings.json",
+              "RelativeToolTip": "BookManagementDAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T07:32:10.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetail.xaml",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml",
+              "RelativeDocumentMoniker": "PE\\BookDetail.xaml",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml",
+              "RelativeToolTip": "PE\\BookDetail.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-10T07:01:16.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "BookService.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\BookManagementBLL\\Services\\BookService.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementBLL\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "BookManagementBLL\\Services\\BookService.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\BookManagementBLL\\Services\\BookService.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementBLL\\Services\\BookService.cs",
               "RelativeToolTip": "BookManagementBLL\\Services\\BookService.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAowCMAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -48,11 +95,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "BookRepository.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\BookManagementDAL\\Repositories\\BookRepository.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\Repositories\\BookRepository.cs",
               "RelativeDocumentMoniker": "BookManagementDAL\\Repositories\\BookRepository.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\BookManagementDAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\BookManagementDAL\\Repositories\\BookRepository.cs",
               "RelativeToolTip": "BookManagementDAL\\Repositories\\BookRepository.cs",
-              "ViewState": "AQIAACAAAAAAAAAAAAAIwCwAAAAlAAAA",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBIAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:25:32.989Z"
             },
@@ -60,34 +107,34 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "BookDetail.xaml.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml.cs",
               "RelativeDocumentMoniker": "PE\\BookDetail.xaml.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml.cs",
               "RelativeToolTip": "PE\\BookDetail.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCQAAAA5AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:23:22.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainScreen.xaml.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml.cs",
               "RelativeDocumentMoniker": "PE\\MainScreen.xaml.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml.cs",
               "RelativeToolTip": "PE\\MainScreen.xaml.cs",
-              "ViewState": "AQIAADUAAAAAAAAAAAAAAEgAAAAAAAAA",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwG0AAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T16:12:23.895Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "MainScreen.xaml",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml",
               "RelativeDocumentMoniker": "PE\\MainScreen.xaml",
-              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml",
               "RelativeToolTip": "PE\\MainScreen.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-07-01T16:12:19.674Z"

@@ -57,7 +57,7 @@ namespace PE
 
         private void CreateButton_Click(object sender, RoutedEventArgs e)
         {
-            BookDetail bookDetail = new(null);
+            BookDetail bookDetail = new();
             bookDetail.ShowDialog();
 
             RefreshDataGrid();
@@ -65,13 +65,31 @@ namespace PE
 
         private void UpdateButton_Click(object sender, RoutedEventArgs e)
         {
+            //lấy cuốn sách user chọn từ lưới để đẩy sang detail
+            //không lấy từ table
+            //Book selected = (Book)BookListDataGrid.SelectedItem;
+            //bị exception nếu k ép được ví dụ k chọn dòng nào
+            //bắt excetion hoặc if else
+            //Book selectedBook = BookListDataGrid.SelectedItem as Book;
+            //as ép vế trái thành vế phải nếu k thành công thì gán null thay vì quăng exception
+            //if (selectedBook == null)
+            //{
+            //    MessageBox.Show("Please select a book to update", "Choose one", MessageBoxButton.OK, MessageBoxImage.Error);
+            //    return;
+            //}
             if (BookListDataGrid.SelectedItem is Book selectedBook)
             {
+                //tìm cách đẩy selectedBook sang BookDetail
+                //không xuông db lấy lại
                 BookDetail bookDetail = new();
+                //đẩy cuốn sách sang bên kia
                 bookDetail.SelectedBook = selectedBook;
                 bookDetail.ShowDialog();
-
                 RefreshDataGrid();
+            }
+            else
+            {
+                MessageBox.Show("Please select a book to update");
             }
 
         }
