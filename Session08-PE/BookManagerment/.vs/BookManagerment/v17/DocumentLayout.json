@@ -64,7 +64,7 @@
               "RelativeDocumentMoniker": "PE\\BookDetail.xaml.cs",
               "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\BookDetail.xaml.cs",
               "RelativeToolTip": "PE\\BookDetail.xaml.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAA5AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwCQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T17:23:22.075Z",
               "EditorCaption": ""
@@ -79,8 +79,7 @@
               "RelativeToolTip": "PE\\MainScreen.xaml.cs",
               "ViewState": "AQIAADUAAAAAAAAAAAAAAEgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T16:12:23.895Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:12:23.895Z"
             },
             {
               "$type": "Document",
@@ -91,8 +90,7 @@
               "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\BookManagerment\\PE\\MainScreen.xaml",
               "RelativeToolTip": "PE\\MainScreen.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-07-01T16:12:19.674Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T16:12:19.674Z"
             }
           ]
         }
