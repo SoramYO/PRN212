@@ -28,8 +28,19 @@ namespace PE
 
                     MainScreen mainscreen = new();
                     mainscreen.Show();
-            this.Hide();
+                    this.Hide();
 
+                }
+                else
+                {
+
+                    MessageBox.Show("You do not have permission to access this application!");
+                }
+            }
+            else
+            {
+                MessageBox.Show("Login failed!");
+            }
         }
 
 
