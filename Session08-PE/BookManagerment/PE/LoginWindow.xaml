@@ -11,8 +11,8 @@
         <Label Content="Login" HorizontalAlignment="Left"   Margin="334,55,0,0"  VerticalAlignment="Top" Height="38"  Width="64" />
         <Label Content="Email" HorizontalAlignment="Left" Margin="103,168,0,0" VerticalAlignment="Top" Height="33" Width="106"/>
         <Label Content="Password" HorizontalAlignment="Left" Margin="103,230,0,0" VerticalAlignment="Top" Height="33" Width="106" RenderTransformOrigin="0.52,1.849"/>
-        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="264,176,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="25"/>
-        <TextBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="264,233,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="26"/>
+        <TextBox x:Name="EmailTextBox" HorizontalAlignment="Left" Margin="264,176,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="25"/>
+        <TextBox x:Name="PasswordTextBox" HorizontalAlignment="Left" Margin="264,233,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="342" Height="26"/>
 
         <Rectangle HorizontalAlignment="Left" Height="34" Margin="282,55,0,0" Stroke="Black" VerticalAlignment="Top" Width="168"/>
         <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="228,303,0,0" VerticalAlignment="Top" Height="39" Width="138" Click="btnLogin_Click"/>

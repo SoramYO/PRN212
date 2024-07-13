@@ -24,6 +24,7 @@ E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.AssemblyInfoInputs.cache
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.AssemblyInfo.cs
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.sourcelink.json
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.dll
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\refint\BookManagementDAL.dll
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementDAL\obj\Debug\net8.0\BookManagementDAL.pdb

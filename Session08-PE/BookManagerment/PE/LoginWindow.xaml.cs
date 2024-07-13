@@ -1,4 +1,5 @@
-﻿using BookManagementDAL.Models;
+﻿using BookManagementBLL.Services;
+using BookManagementDAL.Models;
 using System.Windows;
 namespace PE
 {
@@ -7,6 +8,7 @@ namespace PE
     /// </summary>
     public partial class MainWindow : Window
     {
+        private UserService userservice = new();
         public MainWindow()
         {
             InitializeComponent();
@@ -15,34 +17,29 @@ namespace PE
 
         private void btnLogin_Click(object sender, RoutedEventArgs e)
         {
-            MainScreen mainScreen = new();
-            mainScreen.Show();
-            this.Hide();
-            //UserService userService = new();
-            //var user = userService.CheckUserLogin(txtEmail.Text, txtPassword.Text);
+            var user = userservice.CheckUserLogin(EmailTextBox.Text, PasswordTextBox.Text);
 
-            //if (user != null)
-            //{
-            //    if (user.Role == 1 || user.Role == 2)
-            //    {
-            //        Session.CurrentUser = user;
-            //        AutoCloseMessageBox autoCloseMessageBox = new AutoCloseMessageBox("Login successful", 1);
-            //        autoCloseMessageBox.ShowDialog();
-            //        MainScreen mainScreen = new();
-            //        mainScreen.Show();
-            //        this.Hide();
-            //    }
-            //    else
-            //    {
-            //        AutoCloseMessageBox autoCloseMessageBox = new AutoCloseMessageBox("You have no permission to access system!", 1);
-            //        autoCloseMessageBox.ShowDialog();
-            //    }
-            //}
-            //else
-            //{
-            //    AutoCloseMessageBox autoCloseMessageBox = new AutoCloseMessageBox("Wrong Email or Password", 1);
-            //    autoCloseMessageBox.ShowDialog();
-            //}
+            if (user != null)
+            {
+                if (user.Role == 1 || user.Role == 2)
+                {
+                    Session.CurrentUser = user;
+                    MessageBox.Show("Login successfully!");
+
+                    MainScreen mainscreen = new();
+                    mainscreen.Show();
+                    this.Hide();
+                }
+                else
+                {
+                    MessageBox.Show("You have no permission to access system!\"");
+
+                }
+            }
+            else
+            {
+                MessageBox.Show("Login failed! Please check your email and password again!");
+            }
         }
 
 

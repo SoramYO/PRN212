@@ -26,6 +26,7 @@ E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.AssemblyInfoInputs.cache
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.AssemblyInfo.cs
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.sourcelink.json
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookMana.E16897C4.Up2Date
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.dll
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\refint\BookManagementBLL.dll

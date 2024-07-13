@@ -165,6 +165,7 @@ E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookMa
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookManagementUI.AssemblyInfoInputs.cache
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookManagementUI.AssemblyInfo.cs
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookManagementUI.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookManagementUI.sourcelink.json
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookMana.9789A873.Up2Date
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\BookManagementUI.dll
 E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\refint\BookManagementUI.dll

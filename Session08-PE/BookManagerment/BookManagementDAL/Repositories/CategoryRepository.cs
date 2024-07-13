@@ -4,10 +4,11 @@ namespace BookManagementDAL.Repositories
 {
     public class CategoryRepository
     {
-        private BookManagementDbContext _context = new();
+        private BookManagementDbContext? _context;
 
         public List<BookCategory> GetAll()
         {
+            _context = new BookManagementDbContext();
             return _context.BookCategories.ToList();
         }
     }

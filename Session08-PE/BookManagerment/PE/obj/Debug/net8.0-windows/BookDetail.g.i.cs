@@ -141,7 +141,7 @@ namespace BookManagementUI {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookManagementUI;component/bookdetail.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookManagementUI;V1.0.0.0;component/bookdetail.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\BookDetail.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);
