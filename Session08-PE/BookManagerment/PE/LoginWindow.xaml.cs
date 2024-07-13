@@ -21,25 +21,27 @@ namespace PE
 
             if (user != null)
             {
-                if (user.Role == 1 || user.Role == 2)
+                if (user.Role == 3)
+                {
+                    MessageBox.Show("You do not have permission to access this application!", "", MessageBoxButton.OK, MessageBoxImage.Error);
+                    return;
+                }
+                else
                 {
                     Session.CurrentUser = user;
                     MessageBox.Show("Login successfully!");
 
                     MainScreen mainscreen = new();
+                    mainscreen.UserAccount = user;
                     mainscreen.Show();
                     this.Hide();
 
                 }
-                else
-                {
-
-                    MessageBox.Show("You do not have permission to access this application!");
-                }
             }
             else
             {
-                MessageBox.Show("Login failed!");
+                MessageBox.Show("Login failed!", "", MessageBoxButton.OK, MessageBoxImage.Error);
+                return;
             }
         }
 

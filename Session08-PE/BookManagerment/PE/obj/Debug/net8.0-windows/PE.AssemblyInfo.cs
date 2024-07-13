@@ -11,21 +11,13 @@
 using System;
 using System.Reflection;
 
-<<<<<<<< HEAD:Session08-PE/BookManagerment/BookManagementDAL/obj/Debug/net8.0/BookManagementDAL.AssemblyInfo.cs
-[assembly: System.Reflection.AssemblyCompanyAttribute("BookManagementDAL")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+755f49f28055b46a249cbef85a846d43cca75ff2")]
-[assembly: System.Reflection.AssemblyProductAttribute("BookManagementDAL")]
-[assembly: System.Reflection.AssemblyTitleAttribute("BookManagementDAL")]
-========
 [assembly: System.Reflection.AssemblyCompanyAttribute("PE")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92fdd40023bf8954b48cfbca7301ce72cc48955")]
 [assembly: System.Reflection.AssemblyProductAttribute("PE")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PE")]
->>>>>>>> 5d221d4167d53d329c6b016f8d361584fc418401:Session08-PE/BookManagerment/PE/obj/Debug/net8.0-windows/PE.AssemblyInfo.cs
+
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 [assembly: System.Runtime.Versioning.TargetPlatformAttribute("Windows7.0")]
 [assembly: System.Runtime.Versioning.SupportedOSPlatformAttribute("Windows7.0")]

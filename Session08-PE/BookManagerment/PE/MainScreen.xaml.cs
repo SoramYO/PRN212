@@ -12,6 +12,7 @@ namespace PE
     public partial class MainScreen : Window
     {
         private BookService _service = new();
+        public UserAccount UserAccount { get; set; } = null;
 
         public MainScreen()
         {
@@ -27,6 +28,13 @@ namespace PE
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
             RefreshDataGrid();
+            HelloLabel.Content = $"Hello, {UserAccount.FullName}!";
+            if (UserAccount.Role == 2)
+            {
+                CreateButton.Visibility = Visibility.Collapsed;
+                UpdateButton.Visibility = Visibility.Collapsed;
+                DeleteButton.Visibility = Visibility.Collapsed;
+            }
         }
 
         public void RefreshDataGrid()
@@ -39,20 +47,18 @@ namespace PE
         {
             string keyword = BookNameTextBox.Text;
             string description = DescriptionTextBox.Text;
-            if (!string.IsNullOrEmpty(keyword))
+            if (!string.IsNullOrEmpty(keyword) || !string.IsNullOrEmpty(description))
             {
                 BookListDataGrid.ItemsSource = null;
-                BookListDataGrid.ItemsSource = _service.SearchBooks(keyword);
+                BookListDataGrid.ItemsSource = _service.GetBookByNameAndDescription(keyword, description);
                 return;
             }
-            else if (!string.IsNullOrEmpty(description))
+            else
             {
+                MessageBox.Show("Please enter keyword or description to search", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
                 BookListDataGrid.ItemsSource = null;
-                BookListDataGrid.ItemsSource = _service.SearchBooks(description);
-                return;
+                BookListDataGrid.ItemsSource = _service.GetAllBooks();
             }
-
-
         }
 
         private void CreateButton_Click(object sender, RoutedEventArgs e)

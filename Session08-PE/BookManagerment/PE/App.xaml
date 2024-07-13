@@ -10,7 +10,7 @@
             <Setter Property="Foreground" Value="Blue"/>
         </Style>
         <Style TargetType="TextBox">
-            <Setter Property="TextAlignment" Value="Right"/>
+            <Setter Property="TextAlignment" Value="Left"/>
             <Setter Property="FontSize" Value="20"/>
         </Style>
     </Application.Resources>

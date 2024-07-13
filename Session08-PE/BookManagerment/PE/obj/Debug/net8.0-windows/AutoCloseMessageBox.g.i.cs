@@ -61,7 +61,7 @@ namespace PE {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/BookManagementUI;V1.0.0.0;component/autoclosemessagebox.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/BookManagementUI;component/autoclosemessagebox.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\AutoCloseMessageBox.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

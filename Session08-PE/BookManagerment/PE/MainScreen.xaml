@@ -33,5 +33,6 @@
         <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Margin="1020,560,0,0" VerticalAlignment="Top" Height="56" Width="134" FontSize="22" Click="QuitButton_Click"/>
         <Label Content="Book Management" HorizontalAlignment="Left" Margin="34,50,0,0" VerticalAlignment="Top" FontSize="70"/>
         <Label Content="Book List" HorizontalAlignment="Left" Margin="39,265,0,0" VerticalAlignment="Top" FontSize="22"/>
+        <Label x:Name="HelloLabel" Content="Hello User" HorizontalAlignment="Left" Margin="766,50,0,0" VerticalAlignment="Top" Height="70" Width="388" FontSize="44"/>
     </Grid>
 </Window>
