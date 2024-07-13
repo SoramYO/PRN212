@@ -15,6 +15,7 @@ D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net
 D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\refint\BookManagementBLL.dll
 D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.pdb
 D:\Documents\PRN212\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\ref\BookManagementBLL.dll
+<<<<<<< HEAD
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\appsettings.json
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementBLL.deps.json
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\bin\Debug\net8.0\BookManagementBLL.dll
@@ -32,3 +33,5 @@ E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\refint\BookManagementBLL.dll
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\BookManagementBLL.pdb
 E:\PRN212-master\Session08-PE\BookManagerment\BookManagementBLL\obj\Debug\net8.0\ref\BookManagementBLL.dll
+=======
+>>>>>>> 5d221d4167d53d329c6b016f8d361584fc418401
