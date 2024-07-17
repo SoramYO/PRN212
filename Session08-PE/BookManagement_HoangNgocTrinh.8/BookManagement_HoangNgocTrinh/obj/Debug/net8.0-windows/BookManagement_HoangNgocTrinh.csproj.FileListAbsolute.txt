@@ -1,7 +1,0 @@
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh.csproj.AssemblyReference.cache
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookDetailWindow.g.cs
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\LoginWindow.g.cs
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh_MarkupCompile.cache
-C:\Users\ngoxu\Downloads\Documents\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh_MarkupCompile.lref
