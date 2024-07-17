@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session08-PE\\Library\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2987E-B748-4E41-AFC9-E94D80AD8CD8}|Library.UI\\Library.UI.csproj|e:\\prn212-master\\session08-pe\\library\\library.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65F2987E-B748-4E41-AFC9-E94D80AD8CD8}|Library.UI\\Library.UI.csproj|solutionrelative:library.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F2987E-B748-4E41-AFC9-E94D80AD8CD8}|Library.UI\\Library.UI.csproj|e:\\prn212-master\\session08-pe\\library\\library.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{65F2987E-B748-4E41-AFC9-E94D80AD8CD8}|Library.UI\\Library.UI.csproj|solutionrelative:library.ui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DA3111-B50F-471B-AD0C-1ADF21183900}|LibraryDAL\\LibraryDAL.csproj|e:\\prn212-master\\session08-pe\\library\\librarydal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71DA3111-B50F-471B-AD0C-1ADF21183900}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\librarydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71DA3111-B50F-471B-AD0C-1ADF21183900}|LibraryDAL\\LibraryDAL.csproj|e:\\prn212-master\\session08-pe\\library\\librarydal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{71DA3111-B50F-471B-AD0C-1ADF21183900}|LibraryDAL\\LibraryDAL.csproj|solutionrelative:librarydal\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BA74912-B720-47F9-94FB-107E4EEE836B}|LibraryBLL\\LibraryBLL.csproj|e:\\prn212-master\\session08-pe\\library\\librarybll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BA74912-B720-47F9-94FB-107E4EEE836B}|LibraryBLL\\LibraryBLL.csproj|solutionrelative:librarybll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryDAL\\appsettings.json",
+              "RelativeDocumentMoniker": "LibraryDAL\\appsettings.json",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryDAL\\appsettings.json",
+              "RelativeToolTip": "LibraryDAL\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-17T07:37:24.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LibraryDbContext.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryDAL\\LibraryDbContext.cs",
+              "RelativeDocumentMoniker": "LibraryDAL\\LibraryDbContext.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryDAL\\LibraryDbContext.cs",
+              "RelativeToolTip": "LibraryDAL\\LibraryDbContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBsAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:32:50.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryBLL\\Class1.cs",
+              "RelativeDocumentMoniker": "LibraryBLL\\Class1.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\Library\\LibraryBLL\\Class1.cs",
+              "RelativeToolTip": "LibraryBLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:18:03.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\Library\\Library.UI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Library.UI\\MainWindow.xaml",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\Library\\Library.UI\\MainWindow.xaml",
+              "RelativeToolTip": "Library.UI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T07:16:36.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session08-PE\\Library\\Library.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Library.UI\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\PRN212-master\\Session08-PE\\Library\\Library.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Library.UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAgwDkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T07:16:36.694Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

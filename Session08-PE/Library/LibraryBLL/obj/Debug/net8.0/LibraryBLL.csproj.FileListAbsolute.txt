@@ -1,0 +1,12 @@
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\bin\Debug\net8.0\LibraryBLL.deps.json
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\bin\Debug\net8.0\LibraryBLL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\bin\Debug\net8.0\LibraryBLL.pdb
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.AssemblyInfoInputs.cache
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.AssemblyInfo.cs
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.sourcelink.json
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\refint\LibraryBLL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\LibraryBLL.pdb
+E:\PRN212-master\Session08-PE\Library\LibraryBLL\obj\Debug\net8.0\ref\LibraryBLL.dll

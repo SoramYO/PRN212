@@ -1,0 +1,16 @@
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\bin\Debug\net8.0\LibraryDAL.deps.json
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\bin\Debug\net8.0\LibraryDAL.runtimeconfig.json
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\bin\Debug\net8.0\LibraryDAL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\bin\Debug\net8.0\LibraryDAL.pdb
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.AssemblyReference.cache
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfoInputs.cache
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.AssemblyInfo.cs
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.sourcelink.json
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\refint\LibraryDAL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.pdb
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\LibraryDAL.genruntimeconfig.cache
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\obj\Debug\net8.0\ref\LibraryDAL.dll
+E:\PRN212-master\Session08-PE\Library\LibraryDAL\bin\Debug\net8.0\appsettings.json
