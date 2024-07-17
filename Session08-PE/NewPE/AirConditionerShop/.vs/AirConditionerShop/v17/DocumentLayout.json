@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|d:\\documents\\prn212\\session08-pe\\newpe\\airconditionershop\\airconditionershop.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|solutionrelative:airconditionershop.ui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|d:\\documents\\prn212\\session08-pe\\newpe\\airconditionershop\\airconditionershop.ui\\airconditionerdetail.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|solutionrelative:airconditionershop.ui\\airconditionerdetail.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5651CC0-FA75-4803-BEFB-514D63A38DAF}|AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj|d:\\documents\\prn212\\session08-pe\\newpe\\airconditionershop\\airconditionershop.bll\\services\\airconditionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5651CC0-FA75-4803-BEFB-514D63A38DAF}|AirConditionerShop.BLL\\AirConditionerShop.BLL.csproj|solutionrelative:airconditionershop.bll\\services\\airconditionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|d:\\documents\\prn212\\session08-pe\\newpe\\airconditionershop\\airconditionershop.ui\\airconditionnershop.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|solutionrelative:airconditionershop.ui\\airconditionnershop.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|d:\\documents\\prn212\\session08-pe\\newpe\\airconditionershop\\airconditionershop.ui\\airconditionnershop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{DE303DC6-CE54-4EFC-9C30-E240F34DB072}|AirConditionerShop.UI\\AirConditionerShop.UI.csproj|solutionrelative:airconditionershop.ui\\airconditionnershop.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop.UI\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop.UI\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwB8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:51:38.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AirConditionnerShop.xaml",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionnerShop.xaml",
+              "RelativeDocumentMoniker": "AirConditionerShop.UI\\AirConditionnerShop.xaml",
+              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionnerShop.xaml",
+              "RelativeToolTip": "AirConditionerShop.UI\\AirConditionnerShop.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-17T13:50:34.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AirConditionnerShop.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionnerShop.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop.UI\\AirConditionnerShop.xaml.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionnerShop.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop.UI\\AirConditionnerShop.xaml.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAcwEgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:30:32.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AirConditionerDetail.xaml.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionerDetail.xaml.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop.UI\\AirConditionerDetail.xaml.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.UI\\AirConditionerDetail.xaml.cs",
+              "RelativeToolTip": "AirConditionerShop.UI\\AirConditionerDetail.xaml.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAIwE0AAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T13:24:58.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AirConditionService.cs",
+              "DocumentMoniker": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.BLL\\Services\\AirConditionService.cs",
+              "RelativeDocumentMoniker": "AirConditionerShop.BLL\\Services\\AirConditionService.cs",
+              "ToolTip": "D:\\Documents\\PRN212\\Session08-PE\\NewPE\\AirConditionerShop\\AirConditionerShop.BLL\\Services\\AirConditionService.cs",
+              "RelativeToolTip": "AirConditionerShop.BLL\\Services\\AirConditionService.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAqwBsAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T12:58:01.995Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

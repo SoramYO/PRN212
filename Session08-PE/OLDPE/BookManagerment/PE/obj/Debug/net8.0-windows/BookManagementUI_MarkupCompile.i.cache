@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-E:\PRN212-master\Session08-PE\BookManagerment\PE\obj\Debug\net8.0-windows\
+D:\Documents\PRN212\Session08-PE\OLDPE\BookManagerment\PE\obj\Debug\net8.0-windows\
 BookManagementUI
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-E:\PRN212-master\Session08-PE\BookManagerment\PE\App.xaml
+D:\Documents\PRN212\Session08-PE\OLDPE\BookManagerment\PE\App.xaml
 4357777343
 
 9-302666007
-2461641894313
+246-1672371310
 AutoCloseMessageBox.xaml;BookDetail.xaml;LoginWindow.xaml;MainScreen.xaml;
 
 False
