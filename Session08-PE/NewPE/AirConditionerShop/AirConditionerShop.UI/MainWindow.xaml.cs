@@ -43,7 +43,9 @@ namespace AirConditionerShop.UI
 
         private void QuitButton_Click(object sender, RoutedEventArgs e)
         {
-            Application.Current.Shutdown();
+            MessageBoxResult result = MessageBox.Show("Are you sure quit", "Quit", MessageBoxButton.YesNo);
+            if (result == MessageBoxResult.Yes)
+                Application.Current.Shutdown();
         }
     }
 }

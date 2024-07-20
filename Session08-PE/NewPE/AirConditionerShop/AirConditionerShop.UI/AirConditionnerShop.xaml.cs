@@ -86,8 +86,18 @@ namespace AirConditionerShop.UI
             if (!string.IsNullOrEmpty(quantity) || !string.IsNullOrEmpty(feature))
             {
                 AirConditionDataGridView.ItemsSource = null;
-                AirConditionDataGridView.ItemsSource = _airConditionService.SearchAirConditioner(quantity, feature);
-                return;
+                var searchResult = _airConditionService.SearchAirConditioner(quantity, feature);
+                if (searchResult.Count == 0)
+                {
+                    MessageBox.Show("No result found");
+                    LoadDataGrid();
+                    return;
+                }
+                else
+                {
+                    AirConditionDataGridView.ItemsSource = searchResult;
+                    return;
+                }
             }
             else
             {

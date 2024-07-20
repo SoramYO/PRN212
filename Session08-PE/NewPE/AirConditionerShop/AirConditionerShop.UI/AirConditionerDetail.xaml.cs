@@ -47,6 +47,11 @@ namespace AirConditionerShop.UI
         {
             if (UpdateAir != null)
             {
+                if (AirConditionerNameTextBox.Text == "")
+                {
+                    MessageBox.Show("Please fill all the fields");
+                    return;
+                }
                 int quantity = int.Parse(QuantityTextBox.Text);
                 int price = int.Parse(DollarPriceTextBox.Text);
                 if (quantity < 0 && price < 0)
