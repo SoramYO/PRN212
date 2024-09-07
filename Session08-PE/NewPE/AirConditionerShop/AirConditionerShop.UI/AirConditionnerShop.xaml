@@ -29,6 +29,7 @@
         <Label Content="By Quantity" HorizontalAlignment="Left" Margin="144,79,0,0" VerticalAlignment="Top" FontSize="20"/>
         <TextBox x:Name="SearchByQuantityTextBox" HorizontalAlignment="Left" Margin="316,79,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="304" Height="41" FontSize="17"/>
         <Button x:Name="SearchButton" Content="Search" HorizontalAlignment="Left" Margin="685,59,0,0" VerticalAlignment="Top" Height="30" Width="64" Click="SearchButton_Click"/>
+        <Label x:Name="WellcomeLabel" Content="Helo" HorizontalAlignment="Left" Margin="679,16,0,0" VerticalAlignment="Top" Width="306"/>
 
 
     </Grid>

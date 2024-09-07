@@ -64,6 +64,7 @@ namespace AirConditionerShop.UI
 
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
+            WellcomeLabel.Content = "Wellcome " + StaffMember.FullName;
             LoadDataGrid();
             if (StaffMember.Role == 2)
             {

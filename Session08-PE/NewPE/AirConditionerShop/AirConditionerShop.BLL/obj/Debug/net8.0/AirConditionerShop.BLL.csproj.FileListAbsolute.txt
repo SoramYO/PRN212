@@ -1,0 +1,17 @@
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\appsettings.json
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.deps.json
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.dll
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.BLL.pdb
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.dll
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\bin\Debug\net8.0\AirConditionerShop.DAL.pdb
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.AssemblyReference.cache
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfoInputs.cache
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.AssemblyInfo.cs
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.csproj.CoreCompileInputs.cache
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.sourcelink.json
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirCondi.927B0A0D.Up2Date
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.dll
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\refint\AirConditionerShop.BLL.dll
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\AirConditionerShop.BLL.pdb
+E:\PRN212-master\Session08-PE\NewPE\AirConditionerShop\AirConditionerShop.BLL\obj\Debug\net8.0\ref\AirConditionerShop.BLL.dll

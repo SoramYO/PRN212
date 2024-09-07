@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session02-Language\\DataType\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session02-Language\\DataType\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5ABA00BF-3DF2-4CC4-8564-63BCF9192057}|Nullable\\Nullable.csproj|d:\\documents\\prn212\\session02-language\\datatype\\nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5ABA00BF-3DF2-4CC4-8564-63BCF9192057}|Nullable\\Nullable.csproj|e:\\prn212-master\\session02-language\\datatype\\nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5ABA00BF-3DF2-4CC4-8564-63BCF9192057}|Nullable\\Nullable.csproj|solutionrelative:nullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CF25020B-E2AB-4239-B6C5-93908BE788C2}|NullableV2\\NullableV2.csproj|d:\\documents\\prn212\\session02-language\\datatype\\nullablev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF25020B-E2AB-4239-B6C5-93908BE788C2}|NullableV2\\NullableV2.csproj|e:\\prn212-master\\session02-language\\datatype\\nullablev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF25020B-E2AB-4239-B6C5-93908BE788C2}|NullableV2\\NullableV2.csproj|solutionrelative:nullablev2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,15 +18,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\DataType\\Nullable\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\DataType\\Nullable\\Program.cs",
               "RelativeDocumentMoniker": "Nullable\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\DataType\\Nullable\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\DataType\\Nullable\\Program.cs",
               "RelativeToolTip": "Nullable\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -37,9 +41,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\DataType\\NullableV2\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\DataType\\NullableV2\\Program.cs",
               "RelativeDocumentMoniker": "NullableV2\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\DataType\\NullableV2\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\DataType\\NullableV2\\Program.cs",
               "RelativeToolTip": "NullableV2\\Program.cs",
               "ViewState": "AQIAABsAAAAAAAAAAAAqwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
