@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StudentManagerVFinalFantansy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a92fdd40023bf8954b48cfbca7301ce72cc48955")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4ddc487d273c1568ecd6bd6a97bf2d63479cf468")]
 [assembly: System.Reflection.AssemblyProductAttribute("StudentManagerVFinalFantansy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StudentManagerVFinalFantansy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

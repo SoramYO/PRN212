@@ -81,6 +81,7 @@ The list of number");
             foreach (var x in arr)
             {
                 Console.Write($"{x * 2} ");
+                Console.WriteLine("{0}", arr[x]);
             }
         }
         static void PlayWithIntegerListV3()

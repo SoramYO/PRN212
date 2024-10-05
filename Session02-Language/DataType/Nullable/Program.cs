@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-using System.Security.Cryptography.X509Certificates;
-
+﻿
 namespace Nullable
 {
 
@@ -51,7 +49,7 @@ namespace Nullable
         static void Main(string[] args)
         {
             PlayWithNullV6();
-
+            
         }
 
         //NULLABLE - EM CÓ THỂ MANG GIÁ TRỊ NULL

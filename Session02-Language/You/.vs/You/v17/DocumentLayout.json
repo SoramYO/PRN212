@@ -1,18 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session02-Language\\You\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session02-Language\\You\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CE3C47A-E6BD-4533-9AE3-6542CEA8DE97}|BmiTester\\BmiTester.csproj|d:\\documents\\prn212\\session02-language\\you\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{2CE3C47A-E6BD-4533-9AE3-6542CEA8DE97}|BmiTester\\BmiTester.csproj|e:\\prn212-master\\session02-language\\you\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CE3C47A-E6BD-4533-9AE3-6542CEA8DE97}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E92DC874-C419-4B1C-91E7-E102964118DC}|Bmi\\Bmi.csproj|d:\\documents\\prn212\\session02-language\\you\\bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E92DC874-C419-4B1C-91E7-E102964118DC}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0AD36EC8-AD73-4C93-8219-16F2C0B35B45}|MainUI\\MainUI.csproj|e:\\prn212-master\\session02-language\\you\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AD36EC8-AD73-4C93-8219-16F2C0B35B45}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AD36EC8-AD73-4C93-8219-16F2C0B35B45}|MainUI\\MainUI.csproj|d:\\documents\\prn212\\session02-language\\you\\mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AD36EC8-AD73-4C93-8219-16F2C0B35B45}|MainUI\\MainUI.csproj|solutionrelative:mainui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E92DC874-C419-4B1C-91E7-E102964118DC}|Bmi\\Bmi.csproj|e:\\prn212-master\\session02-language\\you\\bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E92DC874-C419-4B1C-91E7-E102964118DC}|Bmi\\Bmi.csproj|solutionrelative:bmi\\bmicaculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +22,46 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\You\\MainUI\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\You\\MainUI\\Program.cs",
               "RelativeDocumentMoniker": "MainUI\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\You\\MainUI\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\You\\MainUI\\Program.cs",
               "RelativeToolTip": "MainUI\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBUAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-15T07:49:53.659Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BmiCaculator.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\You\\Bmi\\BmiCaculator.cs",
-              "RelativeDocumentMoniker": "Bmi\\BmiCaculator.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\You\\Bmi\\BmiCaculator.cs",
-              "RelativeToolTip": "Bmi\\BmiCaculator.cs",
-              "ViewState": "AQIAACMAAAAAAAAAAAAYwBkAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:27:40.855Z"
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\You\\BmiTester\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\You\\BmiTester\\Program.cs",
               "RelativeDocumentMoniker": "BmiTester\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\You\\BmiTester\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\You\\BmiTester\\Program.cs",
               "RelativeToolTip": "BmiTester\\Program.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAAwAcAAAAJAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBIAAABHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-15T07:31:58.169Z",
+              "WhenOpened": "2024-09-11T10:09:20.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BmiCaculator.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\You\\Bmi\\BmiCaculator.cs",
+              "RelativeDocumentMoniker": "Bmi\\BmiCaculator.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\You\\Bmi\\BmiCaculator.cs",
+              "RelativeToolTip": "Bmi\\BmiCaculator.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-15T07:27:40.855Z",
               "EditorCaption": ""
             }
           ]

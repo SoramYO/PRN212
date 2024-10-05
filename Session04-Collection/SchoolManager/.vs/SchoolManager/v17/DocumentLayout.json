@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|d:\\documents\\prn212\\session04-collection\\schoolmanager\\fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C8F17FAF-C389-4581-8483-DB512018BA21}|ListBasic\\ListBasic.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\listbasic\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8F17FAF-C389-4581-8483-DB512018BA21}|ListBasic\\ListBasic.csproj|solutionrelative:listbasic\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|d:\\documents\\prn212\\session04-collection\\schoolmanager\\fuermanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\fuermanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\services\\cabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C8F17FAF-C389-4581-8483-DB512018BA21}|ListBasic\\ListBasic.csproj|d:\\documents\\prn212\\session04-collection\\schoolmanager\\listbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C8F17FAF-C389-4581-8483-DB512018BA21}|ListBasic\\ListBasic.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\listbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C8F17FAF-C389-4581-8483-DB512018BA21}|ListBasic\\ListBasic.csproj|solutionrelative:listbasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|d:\\documents\\prn212\\session04-collection\\schoolmanager\\fuermanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|d:\\documents\\prn212\\session04-collection\\schoolmanager\\fuermanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\fuermanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|e:\\prn212-master\\session04-collection\\schoolmanager\\fuermanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EDFA692E-8417-47DE-8D1B-4D64B91B8D8E}|FUerManager\\FUerManager.csproj|solutionrelative:fuermanager\\entities\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,17 +34,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Student.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\ListBasic\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "ListBasic\\Entities\\Student.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\ListBasic\\Entities\\Student.cs",
+              "RelativeToolTip": "ListBasic\\Entities\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:20:21.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Program.cs",
               "RelativeDocumentMoniker": "FUerManager\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Program.cs",
               "RelativeToolTip": "FUerManager\\Program.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAgwAkAAAAjAAAA",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wAkAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T17:02:48.543Z",
               "EditorCaption": ""
@@ -49,33 +70,35 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\ListBasic\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\ListBasic\\Program.cs",
               "RelativeDocumentMoniker": "ListBasic\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\ListBasic\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\ListBasic\\Program.cs",
               "RelativeToolTip": "ListBasic\\Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T17:02:41.148Z"
+              "WhenOpened": "2024-06-12T17:02:41.148Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Cabinet.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
               "RelativeDocumentMoniker": "FUerManager\\Services\\Cabinet.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Services\\Cabinet.cs",
               "RelativeToolTip": "FUerManager\\Services\\Cabinet.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwBQAAAAhAAAA",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwEMAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:52:45.542Z"
+              "WhenOpened": "2024-06-12T16:52:45.542Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Lecturer.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Lecturer.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Lecturer.cs",
               "RelativeDocumentMoniker": "FUerManager\\Entities\\Lecturer.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Lecturer.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Lecturer.cs",
               "RelativeToolTip": "FUerManager\\Entities\\Lecturer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -85,13 +108,14 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Student.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "FUerManager\\Entities\\Student.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Student.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\SchoolManager\\FUerManager\\Entities\\Student.cs",
               "RelativeToolTip": "FUerManager\\Entities\\Student.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-12T16:50:44.096Z"
+              "WhenOpened": "2024-06-12T16:50:44.096Z",
+              "EditorCaption": ""
             }
           ]
         }

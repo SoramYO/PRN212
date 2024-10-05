@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session02-Language\\DllUsage\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session02-Language\\DllUsage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1E78E904-B411-4BB5-964A-57192A7A4923}|BmiTester\\BmiTester.csproj|d:\\documents\\prn212\\session02-language\\dllusage\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1E78E904-B411-4BB5-964A-57192A7A4923}|BmiTester\\BmiTester.csproj|e:\\prn212-master\\session02-language\\dllusage\\bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E78E904-B411-4BB5-964A-57192A7A4923}|BmiTester\\BmiTester.csproj|solutionrelative:bmitester\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
               "RelativeDocumentMoniker": "BmiTester\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session02-Language\\DllUsage\\BmiTester\\Program.cs",
               "RelativeToolTip": "BmiTester\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAwwCsAAAARAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-18T06:08:59.713Z",
               "EditorCaption": ""

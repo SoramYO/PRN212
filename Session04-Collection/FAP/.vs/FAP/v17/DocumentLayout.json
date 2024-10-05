@@ -1,21 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\",
+  "WorkspaceRootPath": "E:\\PRN212-master\\Session04-Collection\\FAP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|d:\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\services\\cabinetfantasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F0E7BE2B-C0A0-415A-9941-78170A187EB1}|ArrayBasic\\ArrayBasic.csproj|e:\\prn212-master\\session04-collection\\fap\\arraybasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0E7BE2B-C0A0-415A-9941-78170A187EB1}|ArrayBasic\\ArrayBasic.csproj|solutionrelative:arraybasic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|e:\\prn212-master\\session04-collection\\fap\\studentmanagerv3\\services\\cabinetfantasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\services\\cabinetfantasy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|d:\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|e:\\prn212-master\\session04-collection\\fap\\studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|d:\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|e:\\prn212-master\\session04-collection\\fap\\studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|d:\\documents\\prn212\\session04-collection\\fap\\studentmanagerv3\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|e:\\prn212-master\\session04-collection\\fap\\studentmanagerv3\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A1F07BB3-D772-49E8-A03A-0326A252A698}|StudentManagerV3\\StudentManagerV3.csproj|solutionrelative:studentmanagerv3\\services\\lecturercabinet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -26,15 +30,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\FAP\\ArrayBasic\\Program.cs",
+              "RelativeDocumentMoniker": "ArrayBasic\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\FAP\\ArrayBasic\\Program.cs",
+              "RelativeToolTip": "ArrayBasic\\Program.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAgwFUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T09:20:55.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Entities\\Student.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Entities\\Student.cs",
               "RelativeDocumentMoniker": "StudentManagerV3\\Entities\\Student.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Entities\\Student.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Entities\\Student.cs",
               "RelativeToolTip": "StudentManagerV3\\Entities\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -42,11 +63,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
               "RelativeDocumentMoniker": "StudentManagerV3\\Program.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Program.cs",
               "RelativeToolTip": "StudentManagerV3\\Program.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAwwAkAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -54,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "LecturerCabinet.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\LecturerCabinet.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\LecturerCabinet.cs",
               "RelativeDocumentMoniker": "StudentManagerV3\\Services\\LecturerCabinet.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\LecturerCabinet.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\LecturerCabinet.cs",
               "RelativeToolTip": "StudentManagerV3\\Services\\LecturerCabinet.cs",
               "ViewState": "AQIAAA8AAAAAAAAAAAAgwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,13 +87,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CabinetFantasy.cs",
-              "DocumentMoniker": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "DocumentMoniker": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
               "RelativeDocumentMoniker": "StudentManagerV3\\Services\\CabinetFantasy.cs",
-              "ToolTip": "D:\\Documents\\PRN212\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
+              "ToolTip": "E:\\PRN212-master\\Session04-Collection\\FAP\\StudentManagerV3\\Services\\CabinetFantasy.cs",
               "RelativeToolTip": "StudentManagerV3\\Services\\CabinetFantasy.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAYwDoAAAAuAAAA",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-12T07:21:17.44Z",
               "EditorCaption": ""

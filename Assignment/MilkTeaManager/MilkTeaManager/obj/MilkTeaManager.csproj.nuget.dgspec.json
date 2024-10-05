@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj": {}
+    "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj": {}
   },
   "projects": {
-    "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj": {
+    "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj",
+        "projectUniqueName": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj",
         "projectName": "MilkTeaManagerBLL",
-        "projectPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj",
-        "packagesPath": "C:\\Users\\Soram\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\obj\\",
+        "projectPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj",
+        "packagesPath": "C:\\Users\\ngoxu\\.nuget\\packages\\",
+        "outputPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Soram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,15 +26,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj": {
-                "projectPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj"
+              "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj": {
+                "projectPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj"
               }
             }
           }
@@ -69,24 +68,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj": {
+    "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj",
+        "projectUniqueName": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj",
         "projectName": "MilkTeaManagerDAL",
-        "projectPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj",
-        "packagesPath": "C:\\Users\\Soram\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\obj\\",
+        "projectPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\MilkTeaManagerDAL.csproj",
+        "packagesPath": "C:\\Users\\ngoxu\\.nuget\\packages\\",
+        "outputPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerDAL\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Soram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -95,7 +94,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -164,24 +162,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj": {
+    "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj",
+        "projectUniqueName": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj",
         "projectName": "MilkTeaManager",
-        "projectPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj",
-        "packagesPath": "C:\\Users\\Soram\\.nuget\\packages\\",
-        "outputPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManager\\obj\\",
+        "projectPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManager\\MilkTeaManager.csproj",
+        "packagesPath": "C:\\Users\\ngoxu\\.nuget\\packages\\",
+        "outputPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Soram\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ngoxu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -190,15 +188,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj": {
-                "projectPath": "D:\\Documents\\PRN212\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj"
+              "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj": {
+                "projectPath": "E:\\PRN212-master\\Assignment\\MilkTeaManager\\MilkTeaManagerBLL\\MilkTeaManagerBLL.csproj"
               }
             }
           }
@@ -242,7 +239,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

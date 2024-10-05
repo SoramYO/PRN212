@@ -8,7 +8,7 @@ namespace StudentManagerV1
         {
             //đúc object clone cái phễu cái khuôn class template fill info vào nhiều việc cùng lúc goi new phễu constructor kèm value vật liệu mực bút đổ vào
             //giống đưa hệ số cho chương trình bậc 2 để có 1 pt cụ thể
-            
+
             Student student = new Student("SE1", "Nguyễn Văn An", 2000, 3.0);
             //data type biến obj         obj tốn ram bự chà bá
             //                           public và priavte gì đó ở object
@@ -25,7 +25,7 @@ namespace StudentManagerV1
             //còn C# làm biếng nó báo, vùng new này là vùng Student
             //muốn không bị khó hiểu kết quả hay muốn in toàn bộ info bên trong object đã đổ vào in toàn bộ info của vùng new bạn nên chủ đọng tạo hàm ToString và khi gọi hàm này không cần .ToString C# và Java tự gọi giùm
             //khi dùng biến object ở các lệnh kiểu chuỗi cw(biến object)
-            Student s3 = new ("SE3", "Nguyễn Văn Cường", 2002, 3.2);
+            Student s3 = new("SE3", "Nguyễn Văn Cường", 2002, 3.2);
             //không cần new Student vì đã có cú pháp mới do đã có Student ở vế trái rồi
             Console.WriteLine("Show s3: ");
             s3.ShowProfile();
@@ -49,6 +49,13 @@ namespace StudentManagerV1
 
 
             Student s6 = s5;
+
+            Student xxx = s5;
+            s5 = null;
+            xxx.ShowProfile();
+            //Nếu vùng new không có ai trỏ vùng new sẽ bị
+            //Garbage Collector của runtime dọn dẹp làm object biến mất khỏi ram, để vùng ram này cho lệnh new mới xài
+            //System.GC.Collect(); //không chờ đến ngày đổ rác dọn ngay
             //2 chàng trỏ 1 nàng
             //void F(Student x)
             //{
@@ -78,5 +85,6 @@ namespace StudentManagerV1
                            //TRONG HÀM MÀ SỬA NGOÀI HÀM HỐT ĐỦ
                            //TRONG HÀM ẢNH HƯỞNG BÊN NGOÀI XA XA - CHIẾU RỌI - REFERENCE
         }
+
     }
 }

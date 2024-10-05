@@ -9,11 +9,23 @@ namespace StudentManagerV1.Entities
 {
     public class Student
     {
-        
+
         private string _id; //ĐẶC ĐIỂM, FIELD, STATE, BIẾN ĐẶC BIỆT NẰM NGOÀI HÀM NHƯNG TRONG CLASS CỦA 1 OBJECT THEO QUY TẮC CON LẠC ĐÀ VÀ TỪ _ ĐẦU TIÊN
-        private string _name;  
+        private string _name;
         private int _yob;
         private double _gpa;
+
+
+
+
+
+
+
+
+
+
+
+
 
         //LẤY CÂY BÚT ĐIỀN VÀO FORM KHI MÌNH NEW, CLONE, XIN 1 CÁI FORM ĐỂ LUU INFO KHI MÌNH CẦN LƯU INFO CỦA 1 SV MỚI BẤT KÌ
         //NÓI THEO CÁI KHUÔN ĐÚC THÌ NÓ CHÍNH LÀ CÁI PHỄU HỨNG VẬT LIỆU ĐỔ VÀO TRONG KHUÔN
@@ -41,8 +53,16 @@ namespace StudentManagerV1.Entities
         public int GetYob() => _yob;
         public double GetGpa() => _gpa;
 
-  
+
         //HÀM THAY ĐỔI- THẤY BẠN CÓ GÌ MÌNH BẮT CHƯỚC SỬA MÌNH SET() SETTER()
+        //Contructor mỗi lần gọi chính là lôi phễu ra đúc object mới vùng ram mới được tạo ra để chứa object
+        //Contructor đi kèm new (Photo cái form chuẩn bị điền ra object mới), vùng ram mới
+
+        //Hàm Set() thay đổi info của object đã được đổ vào vùng new nào đó có trước đó
+        //Tức là chỉnh sửa 1 object cụ thể nào đó 
+        //Do đó gọi nó qua biến object chấm
+        //an.SetName() khác bình.SetName() khác cường.SetName()
+        //tui đổi Avatar không ảnh hưởng đến bạn
         public void SetId(string id) => _id = id;
         public void SetName(string name) => _name = name;
         public void SetYob(int yob) => _yob = yob;
@@ -73,6 +93,20 @@ namespace StudentManagerV1.Entities
 
     }
 }
+//Quy tắc viết code convention
+//1. Tên Solution
+//2. Tên Project
+//3. Tên namespace
+//4. Tên class/interface
+//  - Danh từ Pascal Case Notation - Chữ hoa từng đầu từ
+//5. Delegates
+//6. Field (Biến trong class)
+//  - Danh từ, _camel Case Notation, con lạc đà từ đầu tiên viê chữ thường kèm _
+//Ví dụ: sum, sumAll, temp,
+//8. Hằng số (CONSTANT)
+//9. Hàm method
+//  - Verb + Object, Pascal Case Notation - Chữ hoa từng đầu từ
+//Ví dụ ShowProfile() WriteLine()
 //Class là tên gọi chung, 1 danh từ chung, là tên gọi chung cho sự phân nhóm phân loại/ classtify 1 đám object có điểm tương đồng nhau: về đặc điểm, hành vi, 
 //An Bình Cường Dũng ....=> share chung nhiều đặc điểm hành vi
 // -Đăc điểm: id, name, yob, place of birth, address, major, gpa
